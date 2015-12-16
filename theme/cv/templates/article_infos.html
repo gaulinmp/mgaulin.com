@@ -1,0 +1,20 @@
+<footer class="article-info">
+  {% if article.authors %}
+  <address class="vcard author">
+    By {% for author in article.authors %}
+      <a class="url fn" href="{% if AUTHOR_SAVE_AS %}{{ SITEURL }}/{{ author.url }}{% else %}#{% endif %}">{{ author }}</a>
+      {%- if not loop.last %},{% endif %}
+    {% endfor %}
+  </address>
+  {% endif %}
+
+  <abbr class="published" title="{{ article.date.isoformat() }}">
+    {{ article.paperstatus }}: {{ article.date.year }}
+  </abbr>
+
+  {% if article.ssrn %}
+    <a class="url fn" href="{{ article.ssrn }}" target=_blank>{{ author }}</a>
+  {% endif %}
+<!-- <p>In <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>.</p> -->
+{% include 'taglist.html' %}
+</footer><!-- /.article-info -->

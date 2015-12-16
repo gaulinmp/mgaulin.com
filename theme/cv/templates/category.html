@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}{{ SITENAME }} - {{ category }}{% endblock %}
+
+{% block content %}
+{% if articles %}
+  <section id="content" class="body">
+    <ol id="posts-list" class="hfeed" >
+    {% for article in articles_page.object_list %}
+      <li>
+        <article class="hentry">
+          <header>
+            <h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+                   title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
+          </header>
+          {% include 'article_infos.html' %}
+          <details class='abstract'>{{ article.content }}</details>
+        </article>
+      </li>
+    {% endfor %}
+    </ol>
+  </section>
+{% endif %}
+{% endblock content %}
