@@ -25,6 +25,8 @@ LINKS = (('Pandas', 'http://pandas.pydata.org/pandas-docs/stable/'),
         )
 
 # Social widget
+GITHUB_URL = 'https://github.com/gaulinmp'
+TWITTER_URL = 'https://twitter.com/mg_was_taken'
 SOCIAL = (('',''),)
 
 DEFAULT_PAGINATION = False
@@ -41,3 +43,8 @@ DEFAULT_METADATA = {
 
 # No need to link Authors.
 AUTHOR_SAVE_AS = ""
+
+# Individual configuration
+LOCAL_RESOURCE = True
+
+STATIC_PATHS = ['static', ]

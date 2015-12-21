@@ -5,9 +5,18 @@
 {% block content %}
   {% if categories %}
     {% for cat,arts in categories %}
-      <section class="body">
+      <div class="container">
         <h2>{{ cat }}</h2>
-        <ul class="feed vertical" >
+        {% for article in arts %}
+          <div class="card card-block">
+            <h4 class="card-title">
+              <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+                  title="{{ article.title|striptags }}">{{ article.title }}</a>
+            </h4>
+            <p class="card-text">{% include 'article_infos.html' %}</p>
+          </div>
+        {% endfor %}
+        <!-- <ul class="feed vertical" >
         {% for article in arts %}
           <li>
             <header class='article-title'>
@@ -17,16 +26,16 @@
             {% include 'article_infos.html' %}
           </li>
         {% endfor %}
-        </ul>
-      </section>
+        </ul> -->
+      </div>
     {% endfor %}
   {% endif %}
 
-  <section class="body">
+  <div class="container">
     <h2>Pages</h2>
     {% for page in PAGES %}
       <a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>
     {% endfor %}
-  </section>
+  </div>
 
 {% endblock content %}

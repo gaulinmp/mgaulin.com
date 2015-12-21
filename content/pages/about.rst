@@ -1,10 +1,34 @@
 :title: Contact
 
-Maclean Gaulin
------------------------
+.. container:: container text-xs-center m-t-2
 
-| [[http://business.rice.edu][Jesse H. Jones Graduate School of Business]] | (512) 524-9736     |
-| [[http://www.rice.edu][Rice University]]                            | [[mailto:mpg@rice.edu][mpg@rice.edu]]       |
-| 6100 Main St.                              | [[http://mgaulin.com][mgaulin.com]]        |
-| Houston, Texas 77005-1892                  | [[http://gaulinmp.github.io][gaulinmp.github.io]] |
-| Office 359A                                |                    |
+    .. image:: {filename}/static/Mac_Gaulin_Photo.jpg
+       :width: 200 px
+       :alt: Mac Gaulin
+
+
+.. class:: deftable col-lg-5 col-lg-offset-1 col-sm-8 col-sm-offset-2 m-t-2
+
++------------+-----------------------------------------------------------------+
+| Mobile:    | `(512) 524-9736 <tel:+15125249736>`_                            |
++------------+-----------------------------------------------------------------+
+| Email:     | `mpg@rice.edu <mailto:mpg@rice.edu>`_                           |
++------------+-----------------------------------------------------------------+
+| Website:   | `mgaulin.com <mgaulin.com>`_                                    |
++------------+-----------------------------------------------------------------+
+| Github:    | `gaulinmp.github.io <gaulinmp.github.io>`_                      |
++------------+-----------------------------------------------------------------+
+
+.. class:: col-lg-5 col-lg-offset-1 col-sm-8 col-sm-offset-2 m-t-2
+
++------------------------------------------------------------------------------+
+| `Jesse H. Jones Graduate School of Business <http://business.rice.edu>`_     |
++------------------------------------------------------------------------------+
+| `Rice University <http://www.rice.edu>`_                                     |
++------------------------------------------------------------------------------+
+| Office 359A                                                                  |
++------------------------------------------------------------------------------+
+| 6100 Main St.                                                                |
++------------------------------------------------------------------------------+
+| Houston, Texas 77005-1892                                                    |
++------------------------------------------------------------------------------+

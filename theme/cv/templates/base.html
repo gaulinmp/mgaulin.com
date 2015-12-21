@@ -1,71 +1,85 @@
 <!DOCTYPE html>
-<html lang="{{ DEFAULT_LANG }}">
-<head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
-        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
+<html lang="en">
+  <head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-        <!--[if IE]>
-            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+    <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+
+    <!-- Bootstrap CSS -->
+    {% if LOCAL_RESOURCE %}
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css" />
+    {% else %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+    {% endif %}
+
+    <!-- Local CSS to override bootstrap -->
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
+
+    <!--[if IE]>
+        <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 </head>
 
-<body id="index" class="home">
+<body>
 {% include 'github.html' %}
-  <header id="banner" class="body">
+  <header class="container title">
     <h1>
       <a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a>
     </h1>
-    <nav>
-      <ul>
+    <nav class='nav nav-inline'>
       {% for title, link in MENUITEMS %}
-        <li><a href="{{ link }}">{{ title }}</a></li>
+        <a class='nav-link' href="{{ link }}">{{ title }}</a>
       {% endfor %}
       {% if DISPLAY_CATEGORIES_ON_MENU -%}
       {% for cat, null in categories %}
-      <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+        <a class='nav-link {% if cat == category %}ractive{% endif %}'
+           href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
       {% endfor %}
       {% endif %}
       {% if DISPLAY_PAGES_ON_MENU -%}
       {% for pg in PAGES %}
-        <li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>
+        <a class='nav-link {% if pg == page %}ractive{% endif %}'
+           href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
       {% endfor %}
       {% endif %}
-      </ul>
     </nav>
   </header><!-- /#banner -->
 
+  <div class='container'>
   {% block content %}
-  {% endblock %}
+  {% endblock content %}
+  </div>
 
-  <section id="extras" class="body">
-  {% if LINKS %}
-    <div class="blogroll">
-      <ul>
-      {% for name, link in LINKS %}
-          <li><a href="{{ link }}">{{ name }}</a></li>
-      {% endfor %}
-      </ul>
-    </div><!-- /.blogroll -->
-  {% endif %}
-  {% if SOCIAL %}
-    <div class="social">
-      <ul>
-      {% for name, link in SOCIAL %}
-          <li><a href="{{ link }}">{{ name }}</a></li>
-      {% endfor %}
-      </ul>
-    </div><!-- /.social -->
-  {% endif %}
-  </section><!-- /#extras -->
+  <footer class='navbar navbar-bottom'>
+    <nav class='container'>
+      {% if SOCIAL %}
+      <div class="social pull-xs-left">
+        {% for name, link in SOCIAL %}
+            <a href="{{ link }}">{{ name }}</a>
+        {% endfor %}
+      </div><!-- /.social -->
+      {% endif %}
 
-  <footer id="contentinfo" class="body">
-          <address id="about" class="vcard body">
-          &copy; {{ AUTHOR }}, 2015.
-          </address><!-- /#about -->
+      <address class="vcard pull-xs-right">
+      &copy; {{ AUTHOR }}, 2015.
+      </address><!-- /#about -->
+    </nav>
   </footer><!-- /#contentinfo -->
 
+
+<!-- jQuery first, then Bootstrap JS. -->
+{% if LOCAL_RESOURCE %}
+<script href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
+<script href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bootstrap.min.js"></script>
+{% else %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
+{% endif %}
+
 {% include 'analytics.html' %}
+
 </body>
 </html>

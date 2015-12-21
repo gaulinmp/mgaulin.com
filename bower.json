@@ -1,0 +1,22 @@
+{
+  "name": "cv",
+  "version": "0.0.0",
+  "authors": [
+    "Mac Gaulin <gaulinmp+git@gmail.com>"
+  ],
+  "description": "Mac Gaulin's Academic Resume Website.",
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^2.0.0",
+    "font-awesome": "^4.0.0",
+    "bootstrap": "^4.0.0",
+    "roboto-fontface": "~0.4.2"
+  },
+  "ignored_dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+  }
+}
