@@ -8,11 +8,14 @@
 {% endif %}
 
   <div class="published" title="{{ article.date.isoformat() }}">
-    {{ article.paperstatus }}: {{ article.date.year }}
+    {% if article.paperstatus %}
+    {{ article.paperstatus }}
+    {%- else -%}
+    Date
+    {%- endif -%}
+    : {{ article.date }}
   </div>
 
 {% if article.ssrn %}
   <a class="url fn" href="{{ article.ssrn }}" target=_blank>{{ author }}</a>
 {% endif %}
-
-{% include 'taglist.html' %}

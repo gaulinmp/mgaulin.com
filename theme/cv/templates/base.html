@@ -11,7 +11,9 @@
     <!-- Bootstrap CSS -->
     {% if LOCAL_RESOURCE %}
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/font-awesome.min.css" />
     {% else %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
     {% endif %}
 
@@ -32,33 +34,43 @@
     <nav class='nav nav-inline'>
       {% for title, link in MENUITEMS %}
         <a class='nav-link' href="{{ link }}">{{ title }}</a>
+        ~
       {% endfor %}
       {% if DISPLAY_CATEGORIES_ON_MENU -%}
-      {% for cat, null in categories %}
+      {% for cat,_ in categories if 'Research' == cat %}
         <a class='nav-link {% if cat == category %}ractive{% endif %}'
            href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
+           ~
       {% endfor %}
       {% endif %}
-      {% if DISPLAY_PAGES_ON_MENU -%}
+      {% if DISPLAY_PAGES_ON_MENU %}
       {% for pg in PAGES %}
         <a class='nav-link {% if pg == page %}ractive{% endif %}'
            href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
+           {% if not loop.last %} ~ {% endif %}
+      {% endfor %}
+      {% endif %}
+      {% if DISPLAY_CATEGORIES_ON_MENU -%}
+      {% for cat,_ in categories if 'Research' != cat %}
+        ~
+        <a class='nav-link {% if cat == category %}ractive{% endif %}'
+           href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
       {% endfor %}
       {% endif %}
     </nav>
   </header><!-- /#banner -->
 
-  <div class='container'>
+  <div class='container col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1'>
   {% block content %}
   {% endblock content %}
   </div>
 
-  <footer class='navbar navbar-bottom'>
+  <footer class='navbar navbar-fixed-bottom navbar-light bg-faded'>
     <nav class='container'>
       {% if SOCIAL %}
       <div class="social pull-xs-left">
         {% for name, link in SOCIAL %}
-            <a href="{{ link }}">{{ name }}</a>
+            <a href="{{ link }}" target=_blank><!-- {{ name }} --></a>
         {% endfor %}
       </div><!-- /.social -->
       {% endif %}
