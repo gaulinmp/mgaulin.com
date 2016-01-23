@@ -11,6 +11,8 @@ PATH = 'content'
 TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
+DEFAULT_DATE_FORMAT = '%Y-%m-%d'
+DEFAULT_DATE = 'fs'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -27,7 +29,9 @@ LINKS = (('Pandas', 'http://pandas.pydata.org/pandas-docs/stable/'),
 # Social widget
 GITHUB_URL = 'https://github.com/gaulinmp'
 TWITTER_URL = 'https://twitter.com/mg_was_taken'
-SOCIAL = (('',''),)
+SOCIAL = (('@mg_was_taken', 'http://twitter.com/mg_was_taken'),
+          ('LinkedIn', 'https://www.linkedin.com/in/maclean-gaulin-a7a2b97'),
+          ('Github', 'http://github.com/gaulinmp'),)
 
 DEFAULT_PAGINATION = False
 
@@ -37,7 +41,7 @@ RELATIVE_URLS = True
 THEME="./theme/cv/"
 
 DEFAULT_METADATA = {
-    'paperstatus': 'Working Paper',
+    'paperstatus': '',
     'ssrn': '',
 }
 
