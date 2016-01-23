@@ -14,9 +14,9 @@
 +------------+-----------------------------------------------------------------+
 | Email:     | `mpg@rice.edu <mailto:mpg@rice.edu>`_                           |
 +------------+-----------------------------------------------------------------+
-| Website:   | `mgaulin.com <mgaulin.com>`_                                    |
+| Website:   | `mgaulin.com <#>`_                                              |
 +------------+-----------------------------------------------------------------+
-| Github:    | `gaulinmp.github.io <gaulinmp.github.io>`_                      |
+| Github:    | `gaulinmp.github.io <https://gaulinmp.github.io>`_              |
 +------------+-----------------------------------------------------------------+
 
 .. class:: col-lg-5 col-lg-offset-1 col-sm-8 col-sm-offset-2 m-t-2
