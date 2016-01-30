@@ -1,21 +1,25 @@
 {% if article.authors %}
-  <address class="vcard author">
-    By {% for author in article.authors %}
-      <a class="url fn" href="{% if AUTHOR_SAVE_AS %}{{ SITEURL }}/{{ author.url }}{% else %}#{% endif %}">{{ author }}</a>
-      {%- if not loop.last %},{% endif %}
-    {% endfor %}
-  </address>
+  <div class="authors">
+      <address class="vcard author">
+        By {% for author in article.authors %}
+          <a class="url fn" href="{% if AUTHOR_SAVE_AS %}{{ SITEURL }}/{{ author.url }}{% else %}#{% endif %}">{{ author }}</a>
+          {%- if not loop.last %},{% endif %}
+        {% endfor %}
+      </address>
+  </div>
 {% endif %}
 
-  <div class="published" title="{{ article.date.isoformat() }}">
+  <div class="date" title="{{ article.date.isoformat() }}">
     {% if article.paperstatus %}
     {{ article.paperstatus }}
     {%- else -%}
     Date
     {%- endif -%}
-    : {{ article.date }}
+    : {{ article.locale_date }}
   </div>
 
 {% if article.ssrn %}
-  <a class="url fn" href="{{ article.ssrn }}" target=_blank>{{ author }}</a>
+  <div class="ssrn">
+    <a class="url fn" href="{{ article.ssrn }}" target=_blank>{{ author }}</a>
+  </div>
 {% endif %}

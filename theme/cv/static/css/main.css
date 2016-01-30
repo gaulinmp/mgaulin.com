@@ -11,7 +11,7 @@ body {
     color: #111;
     font-size: 1.2rem;
     font-family: 'Crimson Text','Slabo 27px', serif;
-    /*line-height: 1.2rem;*/
+    line-height: 1.25em;
     padding-top:3rem;
 }
 
@@ -31,12 +31,12 @@ code{
 }
 
 
-h1 {font-size: 2rem }
-h2 {font-size: 1.6rem}	/* 22px * /
-h3 {font-size: 1.4rem}	/* 20px * /
-h4 {font-size: 1.2rem}	/* 18px * /
-h5 {font-size: 1rem}	/* 16px * /
-h6 {font-size: .8rem}		/* 14px */
+h1 {font-size: 2em }
+h2 {font-size: 1.6em} /* 22px */
+h3 {font-size: 1.4em} /* 20px */
+h4 {font-size: 1.2em} /* 18px */
+h5 {font-size: 1em}   /* 16px */
+h6 {font-size: .8em}  /* 14px */
 
 h1, h2, h3, h4, h5, h6 {
   text-shadow:0px 0px 1px #BFBFBF;
@@ -45,7 +45,15 @@ h1, h2, h3, h4, h5, h6 {
   font-variant: small-caps;
 }
 
-/* Main Nav */
+.justify {
+  text-align: justify;
+  text-justify: auto;
+}
+/*************************************************************
+**************************************************************
+********************** Main Nav ******************************
+**************************************************************
+**************************************************************/
 header.title h1{
   text-align: center;
   font-size: 2.5em;
@@ -64,13 +72,16 @@ header.title nav {
 }
 
 header .nav-link {
-  margin: auto 1rem auto 0;
+  margin: auto 1em auto 0;
 }
 
-/*nav a:before { content: "~"; margin-right: 1rem; }*/
-/*nav a:first-child:before { content: ""; margin-right: 0; }*/
 .ractive {font-weight: bold; text-decoration: underline;}
 
+/*************************************************************
+**************************************************************
+********************* Body Content ***************************
+**************************************************************
+**************************************************************/
 a {
   outline: 0;
   text-decoration: none;
@@ -83,8 +94,27 @@ a:active {
   text-shadow:0 0 .5em #BFBFBF;
 }
 
+section.body article header {
+  margin-bottom: 1em;
+}
 
-/* Icons */
+header div.meta-info {
+  padding-top: .25em;
+  padding-left: 2em;
+}
+
+.card .card-indent{
+  border-left: 1px solid #CCC;
+  padding-top: .25em;
+  padding-bottom: .25em;
+  padding-left: 1em;
+}
+
+/*************************************************************
+**************************************************************
+************************* Icons ******************************
+**************************************************************
+**************************************************************/
 .social a {
   background-repeat: no-repeat;
   background-position: 3px 6px;

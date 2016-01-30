@@ -3,21 +3,25 @@
 {% block content_title %}{% endblock %}
 
 {% block content %}
+{% with abstract=False %}
   {% if categories %}
     {% for cat,arts in categories  if 'Research' == cat  %}
-      <div class="container col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <h2>{{ cat }}</h2>
+      <div class="container ">
+        <h4>{{ cat }}</h4>
         {% for article in arts %}
-          <div class="card card-block">
-            <h4 class="card-title">
-              <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-                  title="{{ article.title|striptags }}">{{ article.title }}</a>
-            </h4>
-            <p class="card-text">{% include 'article_infos.html' %}</p>
-          </div>
+            {% include 'category_card.html' %}
+        {% endfor %}
+      </div>
+    {% endfor %}
+    {% for cat,arts in categories  if 'Research' != cat  %}
+    <hr>
+      <div class="container ">
+        <h4>{{ cat }}</h4>
+        {% for article in arts %}
+          {% include 'category_card.html' %}
         {% endfor %}
       </div>
     {% endfor %}
   {% endif %}
-
+{% endwith %}
 {% endblock content %}
