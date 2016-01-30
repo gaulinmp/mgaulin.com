@@ -7,7 +7,7 @@
   {% if categories %}
     {% for cat,arts in categories  if 'Research' == cat  %}
       <div class="container ">
-        <h4>{{ cat }}</h4>
+        <h2>{{ cat }}</h2>
         {% for article in arts %}
             {% include 'category_card.html' %}
         {% endfor %}
@@ -16,7 +16,7 @@
     {% for cat,arts in categories  if 'Research' != cat  %}
     <hr>
       <div class="container ">
-        <h4>{{ cat }}</h4>
+        <h2>{{ cat }}</h2>
         {% for article in arts %}
           {% include 'category_card.html' %}
         {% endfor %}
