@@ -1,10 +1,8 @@
 :title: Debt contracting on human capital
 :authors: Brian Akins, David De Angelis, Maclean Gaulin
 :paperstatus: Working Paper
-:date: 2015-10-03 10:20
-:ssrn:
 :tags: debt,contracting,human capital
-:template: research
+:date: 2016-01-21
 
 
-Prior research assumes lenders adjust debt contract features, such as maturity and debt capacity, to compensate for the fact that ownership of human capital cannot be transferred to the firm. Our evidence shows lenders can take a different, direct approach by contracting explicitly on human capital. Examining private loan agreements, we find 8.5% of sample firms have change of management restriction (CMR) clauses, which explicitly prohibit them from changing management or require lender approval for any such change. We show the CMR clauses are binding: CEO turnover decreases during the term of the loan contract. Our results indicate that the risk arising from the inalienability of human capital informs the contracting decision. CMR clauses are more likely to be adopted when managers possess idiosyncratic expertise, when the enforceability of non-compete agreements is weaker, and when lenders face higher information risk. Finally, loan pricing tests sh
+This paper shows that lenders can have a strong influence on firms’ governance outside payment and technical default states by exerting ex-ante control over managerial turnover, not through dismissal, but via retention and selection. Examining private loan agreements, we find 8.5% of firms have change of management restriction (CMR) clauses. We show CMRs are binding: CEO turnover decreases during the loan contract term. The risk arising from the inability to transfer human capital from the individual to the firm informs this contracting practice: CMR clauses tend to be adopted when managers are likely to possess unique skills and in states where the enforcement of non-compete clauses is weaker. We also find evidence consistent with lenders using CMR clauses to limit risk taking behavior.  Finally, CMR inclusion is associated with lower yields, indicating they are in place to protect lenders, rather than to entrench existing management.
