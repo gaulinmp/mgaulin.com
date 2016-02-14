@@ -12,25 +12,26 @@ body {
     font-size: 1.2rem;
     font-family: 'Crimson Text','Slabo 27px', serif;
     line-height: 1.25em;
-    padding-top:3rem;
+    padding-top: 3rem;
 }
 
-code{
-    border:1px solid #eaeaea;
-    background-color:#f8f8f8;
-    font-size: 1rem;
-    font-style:normal;
-    color:#777;
-    -moz-border-radius:7px;
-    -webkit-border-radius:7px;
-    padding-left:3px;
-    padding-right:3px;
-    padding-bottom:0px;
-    font-weight:normal;
+/* Code Blocks from Pygments */
+code, .highlight{
+    font-size: .8em;
+    font-style: normal;
+    margin: 1em 2em;
+    padding: 0 .5em;
+    font-weight: normal;
     font-family: Consolas, "Droid Sans Mono", monospace;
 }
+.highlight pre{
+  padding: .5em 1em;
+}
+span.lineno {
+  color: #777777;
+}
 
-
+/* Headings */
 h1 {font-size: 2em }
 h2 {font-size: 1.6em} /* 22px */
 h3 {font-size: 1.4em} /* 20px */
@@ -82,6 +83,10 @@ header .nav-link {
 ********************* Body Content ***************************
 **************************************************************
 **************************************************************/
+.body {
+  padding-bottom: 5rem;
+}
+
 a {
   outline: 0;
   text-decoration: none;
