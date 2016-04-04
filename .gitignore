@@ -1,3 +1,4 @@
 __pycache__/
 output/*
+node_modules/
 srv.pid
