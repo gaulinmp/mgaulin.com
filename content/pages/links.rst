@@ -1,36 +1,59 @@
 :title: Resources
 
-This page lists code I've shared as well as any websites or tutorials I've come across that I've found helpful in the past.
+==================================================
+Resources
+==================================================
+This page lists code I've developed as well as websites or tutorials that I've found helpful.
 
 
-Code Uploads:
-======================================
+`SAS Macros <https://github.com/gaulinmp/sas_macros>`_
+---------------------------------------------------------------------------
+I've compiled some of the SAS macros that I use frequently into a Github repo.
+The code is self documenting.
+To include the main set of macros use the following command:
+``%INCLUDE("path to MACROS.SAS");``.
+`» <SAS Macros_>`__
 
-Macros.SAS
----------------------------------------
-I've compiled some code into a Macros.SAS file that I use frequently. The code is hopefully self documenting, to include it use the command %include("path to file/MACROS.SAS");.
+`SEC EDGAR in Python <https://github.com/gaulinmp/pyedgar>`_
+---------------------------------------------------------------------------
+I added code I use to interact with the SEC's EDGAR website to Github.
+The code includes a runnable module to download the last 90 days of EDGAR files
+to a local cache (``python -m pyedgar.download``).
+It also includes utilities to interact with the files and headers, located in
+``pyedgar.utilities``.
+`» <SEC EDGAR in Python_>`__
 
-Notepad++ Syntax Highlighting
----------------------------------------
-I've put together the some syntax highlighting for SAS and STATA for Notepad++. See these directions for instructions on how to apply the syntax highlighting (save the userDefineLang.xml file to C:/Program Files/Notepad++ or its equivalent). I got the original documents from here and here, thanks to those authors. »
 
-Links
-======================================
+`My SAS Coding Blog <https://codingsas.blogspot.com>`_
+---------------------------------------------------------------------------
+I blog about some of the SAS tips/tricks/code snippets that I have developed.
+I update the blog rarely, typically only when I'm working in SAS full time.
+`» <My SAS Coding Blog_>`__
 
-My SAS Coding Blog
----------------------------------------
-I randomly post tips/tricks/code snippits to a blog. I update it rately, typically only when I'm actively working on SAS full time, but perhaps there's some signal in all that noise. »
 
-The following are links to other sites/resources, all credit to the original authors.
+==================================================
+External Links
+==================================================
+These links have been helpful to me in the past; all credit to the original authors.
 
-Compustat Legacy Code Search
----------------------------------------
-This site lists the lookup from legacy compustat codes to newer version compustat alphabetical references (e.g. Compustat #1 -> "AT"). »
+`Compustat Legacy Code Search <CRSPLkup_>`_
+---------------------------------------------------------------------------
+This site lists the lookup from legacy compustat codes to the newer version
+compustat alphabetical references (e.g. Compustat -1 -> "AT").
+There is also a
+`cached version <https://web.archive.org/web/20130529112621/http://www.crsp.chicagobooth.edu/documentation/product/ccm/cross/annual_data.html>`__
+for if the site moves again.
+`» <CRSPLkup_>`_
 
-Ed deHaan's Programming website links
----------------------------------------
-Great website written by Ed deHaan with lots of helpful SAS and STATA links. »
+.. _CRSPLkup: http://www.crsp.chicagobooth.edu/products/documentation/compustat-cross-reference
 
-Syntax Highlighting for Sublime Text 2
----------------------------------------
-Tutorial and code for getting syntax highlighting for SAS on Sublime Text 2. »
+
+
+`Ed deHaan's SAS links <EdSASL_>`_
+---------------------------------------------------------------------------
+This great website written by
+`Ed deHaan <http://www.gsb.stanford.edu/faculty-research/faculty/ed-dehaan>`_
+includes many helpful SAS and STATA links.
+`» <EdSASL_>`_
+
+.. _EdSASL: http://faculty-gsb.stanford.edu/dehaan/SAS.html

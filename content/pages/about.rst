@@ -1,34 +1,22 @@
 :title: Contact
 
-.. container:: container text-xs-center m-t-2
 
-    .. image:: {filename}/static/Mac_Gaulin_Photo.jpg
-       :width: 200 px
-       :alt: Mac Gaulin
+.. image:: {filename}/static/Mac_Gaulin_Photo.jpg
+   :width: 200 px
+   :alt: Mac Gaulin
 
 
-.. class:: deftable col-lg-5 col-lg-offset-1 col-sm-8 col-sm-offset-2 m-t-2
+:Mobile:  `(512) 524-9736 <tel:+15125249736>`__
+:Email:  `mpg@rice.edu <mailto:mpg@rice.edu>`__
+:Website:  `mgaulin.com <http://mgaulin.com>`__
+:Github:  `github.com/gaulinmp <https://github.com/gaulinmp>`__
+:LinkedIn: `maclean-gaulin <https://linkedin.com/pub/maclean-gaulin/7/2b9/a7a>`_
+:Address:  `Jesse H. Jones Graduate School of Business <http://business.rice.edu>`__
 
-+------------+-----------------------------------------------------------------+
-| Mobile:    | `(512) 524-9736 <tel:+15125249736>`_                            |
-+------------+-----------------------------------------------------------------+
-| Email:     | `mpg@rice.edu <mailto:mpg@rice.edu>`_                           |
-+------------+-----------------------------------------------------------------+
-| Website:   | `mgaulin.com <#>`_                                              |
-+------------+-----------------------------------------------------------------+
-| Github:    | `gaulinmp.github.io <https://gaulinmp.github.io>`_              |
-+------------+-----------------------------------------------------------------+
+            `Rice University <http://www.rice.edu>`__
 
-.. class:: col-lg-5 col-lg-offset-1 col-sm-8 col-sm-offset-2 m-t-2
+            Office 359A
 
-+------------------------------------------------------------------------------+
-| `Jesse H. Jones Graduate School of Business <http://business.rice.edu>`_     |
-+------------------------------------------------------------------------------+
-| `Rice University <http://www.rice.edu>`_                                     |
-+------------------------------------------------------------------------------+
-| Office 359A                                                                  |
-+------------------------------------------------------------------------------+
-| 6100 Main St.                                                                |
-+------------------------------------------------------------------------------+
-| Houston, Texas 77005-1892                                                    |
-+------------------------------------------------------------------------------+
+            6100 Main St.
+
+            Houston, Texas 77005-1892
