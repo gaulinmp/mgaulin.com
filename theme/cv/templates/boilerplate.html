@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+
+    <!-- Bootstrap CSS -->
+    {% if LOCAL_RESOURCE %}
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/font-awesome.min.css" />
+    {% else %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+    {% endif %}
+
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600,600italic,700,700italic" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans+Mono" />
+    <!-- Local CSS to override bootstrap -->
+    <!-- <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" /> -->
+    {% assets filters="scss", output="css/main.compiled.css", "css/main.scss" %}
+      <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
+    {% endassets %}
+
+    <!--[if IE]>
+        <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    {% block head_scripts %}
+    {% endblock head_scripts %}
+</head>
+
+<body>
+{% block body %}
+{% endblock body %}
+
+<!-- jQuery first, then Bootstrap JS. -->
+{% if LOCAL_RESOURCE %}
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bootstrap.min.js"></script>
+{% else %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js"></script>
+{% endif %}
+
+<!-- Thanks https://github.com/tyleruebele/details-shim -->
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/details-shim.js"></script>
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/cv.js"></script>
+
+{% block foot_scripts %}
+{% endblock foot_scripts %}
+
+{% include 'analytics.html' %}
+
+</body>
+</html>

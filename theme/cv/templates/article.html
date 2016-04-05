@@ -5,15 +5,15 @@
   <article>
     <header>
       <h2 class="entry-title">
-        <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+        <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" class='title'
            title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
       <div class="meta-info">
         {% include 'article_infos.html' %}
       </div><!-- /.entry-content -->
     </header>
-    <div class="entry-content justify">
+    <main class="entry-content justify">
       {{ article.content }}
-    </div><!-- /.entry-content -->
+    </main><!-- /.entry-content -->
   </article>
 </section>
 {% endblock %}

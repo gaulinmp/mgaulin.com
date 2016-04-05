@@ -3,7 +3,14 @@
 {% block content_title %}{% endblock %}
 
 {% block content %}
-{% with abstract=False %}
+<div class="container">
+<p>
+  Maclean Gaulin is a fifth year Ph.D. student in accounting at the Jesse H. Jones Graduate School of Business. His background is in Electrical Engineering where he worked in the industry for four years before joining the Ph.D. program at Rice University. His research interests include corporate disclosure and information dissemination research.
+</p>
+<br><br>
+</div>
+
+
   {% if categories %}
     {% for cat,arts in categories  if 'Research' == cat  %}
       <div class="container ">
@@ -23,5 +30,4 @@
       </div>
     {% endfor %}
   {% endif %}
-{% endwith %}
 {% endblock content %}

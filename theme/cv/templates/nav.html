@@ -1,0 +1,31 @@
+<header class="container title" role='navigation'>
+  <h1>
+    <a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a>
+  </h1>
+  <nav class='nav'>
+    {% for title, link in MENUITEMS %}
+      <a class='nav-link' href="{{ link }}">{{ title }}</a>
+    {% endfor %}
+
+    {% if DISPLAY_CATEGORIES_ON_MENU %}
+      {% for cat,_ in categories if 'Research' == cat %}
+        <a class='nav-link {% if cat == category %}active{% endif %}'
+           href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
+      {% endfor %}
+    {% endif %}
+
+    {% if DISPLAY_PAGES_ON_MENU %}
+      {% for pg in PAGES %}
+        <a class='nav-link page {% if pg == page %}active{% endif %}'
+           href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
+      {% endfor %}
+    {% endif %}
+
+    {% if DISPLAY_CATEGORIES_ON_MENU -%}
+      {% for cat,_ in categories if 'Research' != cat %}
+        <a class='nav-link category {% if cat == category %}active{% endif %}'
+           href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
+      {% endfor %}
+    {% endif %}
+  </nav>
+</header><!-- /#banner -->

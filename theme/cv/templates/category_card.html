@@ -1,22 +1,28 @@
 <div class="card card-block">
-  <!-- <div class="card-block"> -->
-    <h3 class="card-title">
-      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-          title="{{ article.title|striptags }}">{{ article.title }}</a>
-    </h3>
+  <h3 class="card-title">
+    <a href="{%- if article.ssrn -%}{{ article.ssrn }}
+             {%- else -%}{{ SITEURL }}/{{ article.url }}{%- endif -%}
+             " rel="bookmark"
+        title="{{ article.title|striptags }}">{{ article.title }}</a>
+  </h3>
 
-    {% if article.authors %}
-    <div class="authors">
-      <h6 class="card-subtitle text-muted">
-        <address class="vcard author">
-          By {% for author in article.authors %}
-            <a class="url fn" href="{% if AUTHOR_SAVE_AS %}{{ SITEURL }}/{{ author.url }}{% else %}#{% endif %}">{{ author }}</a>
-            {%- if not loop.last %},{% endif %}
-          {% endfor %}
-        </address>
-      </h6>
-    </div>
-    {% endif %}
+  {% if article.authors %}
+  <div class="authors">
+    <h6 class="card-subtitle text-muted">
+      <address class="vcard author">
+        By {% for author in article.authors %}
+            {%- if AUTHOR_SAVE_AS -%}
+            <a class="author" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+            {%- else -%}
+            {{ author }}
+            {%- endif -%}
+          {%- if not loop.last %}, {% endif %}
+        {% endfor %}
+      </address>
+    </h6>
+  </div>
+  {% endif %}
+
   <div class="card-indent">
     <p class="article-date card-text" title="{{ article.date.isoformat() }}">
       {% if article.paperstatus %}
@@ -26,17 +32,14 @@
       {%- endif -%}
       : {{ article.locale_date }}</p>
 
-    {% if abstract|default(True) %}
+    {% if article.abstract|default(True) %}
       <details class='abstract justify'>
-        <summary>{% if article.paperstatus %}Abstract{% else %}Summary{% endif %}</summary>
-        <p class='card-text'>{{ article.content }}</p>
+        <summary>{% if article.hasabstract %}Abstract{% else %}Summary{% endif %}</summary>
+        <p class='card-text'>
+          {% if article.hasabstract|default(False) %}{{ article.content }}
+          {% else %}{{ article.summary}}{% endif %}
+        </p>
       </details>
-    {% endif %}
-
-    {% if article.ssrn %}
-    <p class='text-xs-right'>
-      <a class='card-link' href="{{ article.ssrn }}" target=_blank>SSRN Link</a>
-    </p>
     {% endif %}
   </div>
 </div>

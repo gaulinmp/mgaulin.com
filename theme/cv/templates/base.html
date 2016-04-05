@@ -1,67 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags always come first -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
+{% extends "boilerplate.html" %}
 
-    <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+{% block body %}
 
-    <!-- Bootstrap CSS -->
-    {% if LOCAL_RESOURCE %}
-    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/font-awesome.min.css" />
-    {% else %}
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
-    {% endif %}
+  <!--main-->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-lg-3" id="leftnav">
+        {% include "nav.html" ignore missing with context%}
+      </div>
 
-    <!-- Local CSS to override bootstrap -->
-    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
-
-    <!--[if IE]>
-        <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-</head>
-
-<body>
-  <header class="container title">
-    <h1>
-      <a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a>
-    </h1>
-    <nav class='nav nav-inline'>
-      {% for title, link in MENUITEMS %}
-        <a class='nav-link' href="{{ link }}">{{ title }}</a>
-        ~
-      {% endfor %}
-      {% if DISPLAY_CATEGORIES_ON_MENU -%}
-      {% for cat,_ in categories if 'Research' == cat %}
-        <a class='nav-link {% if cat == category %}ractive{% endif %}'
-           href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
-           ~
-      {% endfor %}
-      {% endif %}
-      {% if DISPLAY_PAGES_ON_MENU %}
-      {% for pg in PAGES %}
-        <a class='nav-link {% if pg == page %}ractive{% endif %}'
-           href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
-           {% if not loop.last %} ~ {% endif %}
-      {% endfor %}
-      {% endif %}
-      {% if DISPLAY_CATEGORIES_ON_MENU -%}
-      {% for cat,_ in categories if 'Research' != cat %}
-        ~
-        <a class='nav-link {% if cat == category %}ractive{% endif %}'
-           href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
-      {% endfor %}
-      {% endif %}
-    </nav>
-  </header><!-- /#banner -->
-
-  <div class='body container col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1'>
-    {% block content %}
-    {% endblock content %}
+      <div class="col-md-8 col-lg-9 body">
+        <main role="main">
+          {% block content %}
+          {% endblock content %}
+        </main>
+      </div>
+    </div>
   </div>
 
   <footer class='navbar navbar-fixed-bottom navbar-light bg-faded'>
@@ -81,16 +35,4 @@
   </footer><!-- /#contentinfo -->
 
 
-<!-- jQuery first, then Bootstrap JS. -->
-{% if LOCAL_RESOURCE %}
-<script href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
-<script href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bootstrap.min.js"></script>
-{% else %}
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
-{% endif %}
-
-{% include 'analytics.html' %}
-
-</body>
-</html>
+{% endblock body %}
