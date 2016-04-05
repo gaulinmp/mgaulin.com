@@ -2,6 +2,7 @@ image: python:3.5-alpine
 
 pages:
   script:
+  - git clone --recursive https://github.com/getpelican/pelican-plugins /builds/gaulinmp/pelican-plugins
   - pip install -r requirements.txt
   - pelican -s publishconf.py
   artifacts:
