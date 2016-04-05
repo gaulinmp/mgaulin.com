@@ -1,8 +1,10 @@
 image: python:3.5-alpine
 
+before_script:
+  - git clone --recursive https://github.com/getpelican/pelican-plugins /builds/gaulinmp/pelican-plugins
+
 pages:
   script:
-  - git clone --recursive https://github.com/getpelican/pelican-plugins /builds/gaulinmp/pelican-plugins
   - pip install -r requirements.txt
   - pelican -s publishconf.py
   artifacts:
