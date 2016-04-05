@@ -10,15 +10,18 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = ''
-RELATIVE_URLS = False
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+AUTHOR = 'Maclean Gaulin'
+SITENAME = 'Maclean Gaulin'
+SITEURL = 'http://mgaulin.com'
 
-DELETE_OUTPUT_DIRECTORY = True
-
-# Following items are often useful when publishing
-
-#DISQUS_SITENAME = ""
 GOOGLE_ANALYTICS = "UA-37522001-1"
+
+RELATIVE_URLS = True
+DELETE_OUTPUT_DIRECTORY = False
+
+
+DEFAULT_PAGINATION = False
+
+# Uncomment following line if you want document-relative URLs when developing
+LOCAL_RESOURCE = False
