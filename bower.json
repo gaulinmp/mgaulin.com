@@ -17,6 +17,6 @@
     "roboto-fontface": "~0.4.2"
   },
   "ignored_dependencies": {
-    "polymer": "Polymer/polymer#^1.0.0",
+    "polymer": "Polymer/polymer#^1.0.0"
   }
 }
