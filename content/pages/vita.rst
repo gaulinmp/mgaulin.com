@@ -133,7 +133,7 @@ Conferences Attended
 .. Y88b  d88P Y88..88P 888  888 888         X88
 ..  "Y8888P"   "Y88P"  888  888 888     88888P'
 
-:2015:  Financial Accounting Research. (Discussant of *The Effect of Institutional Ownership on Firm Transparency and Information Production* by Audra Boone and Joshua White; `SSRN <http://ssrn.com/abstract=2528891>`__)
+:2015:  Financial Accounting and Reporting Section Midyear Meeting. (Discussant of *The Effect of Institutional Ownership on Firm Transparency and Information Production* by Audra Boone and Joshua White; `SSRN <http://ssrn.com/abstract=2528891>`__)
 
         - Loan Star Accounting Conference
 
@@ -141,7 +141,7 @@ Conferences Attended
 
         - AAA/Deloitte/J. Michael Cook Doctoral Consortium
 
-        - Financial Accounting Research Symposium
+        - Financial Accounting and Reporting Section Midyear Meeting
 
         - International Accounting section of the AAA
 
