@@ -53,6 +53,11 @@ body {
   line-height: 1.25em;
   padding-top: 3em;
 }
+@media print {
+  body {
+  font-size: 0.9em;
+  }
+}
 
 b, strong {
   font-weight: bold;
@@ -87,6 +92,12 @@ h6 { font-size: 0.8em; }
 .justify {
   text-align: justify;
   text-justify: auto;
+}
+
+@media print {
+  .no-print, .no-print * {
+    display: none !important;
+  }
 }
 
 /*****************************************************************************************
