@@ -95,7 +95,7 @@ Education
 Working Papers
 --------------------------------------------------------------------------------
 
-* `Risk Fact or Fiction: The information content of risk factor disclosures </research/job-market-paper.html>`_, 2016 (job market paper)
+* `Risk Fact or Fiction: The information content of risk factor disclosures </research/risk-fact-or-fiction-the-information-content-of-risk-factor-disclosures.html>`_, 2016 (job market paper)
 * `Debt Contracting on Management <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757508>`_ with Brian Akins and David De Angelis, 2016
 
 Work in process
