@@ -2,8 +2,12 @@
 :authors: Brian Akins, David De Angelis, Maclean Gaulin
 :paperstatus: Working Paper
 :tags: debt,contracting,human capital,covenants
-:date: 2016-03-31
+:date: 2016-10-17
 :ssrn: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757508
 :hasabstract: True
 
-This paper shows that lenders can influence firms’ governance outside payment and technical default states by exerting ex-ante control over managerial turnover via retention and selection decisions. Examining private loan agreements, we find 8.5% of firms have change of management restriction (CMR) clauses. CEO turnover analysis suggests CMRs are binding. The inalienability of human capital motivates their presence. We also show that CMRs provide a way to contract on soft information and retain management with creditor-friendly style. Finally, CMRs are associated with lower yields, indicating they are in place to protect lenders, rather than to entrench management.
+This paper documents and studies the use of change of management restrictions (CMRs) in private loan contracts.
+These clauses give lenders explicit control over retention and/or selection decisions.
+Our analysis suggests CMRs are binding: the likelihood of CEO turnover more than halved during CMR terms.
+We find lenders include CMRs to mitigate human capital risk, particularly when this risk is exacerbated by contracting frictions or by creditor-shareholder conflicts of interest.
+Overall, our results imply that lenders can influence managerial turnover outside of default states, and human capital risk can impact debt contract design in ways not anticipated in the literature.

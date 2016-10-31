@@ -53,7 +53,7 @@ Interests
 ..   888   888  888 Y88b. Y8b.     888    Y8b.          X88 Y88b.       X88
 .. 8888888 888  888  "Y888 "Y8888  888     "Y8888   88888P'  "Y888  88888P'
 
-Public disclosure, information acquisition, information usefulness, textual analysis.
+Public narrative disclosures, information acquisition, information usefulness, textual analysis.
 
 
 
@@ -70,7 +70,7 @@ Education
 
 |RICE|_, |JBS|_, Houston, TX USA
 
-    Ph.D Candidate, Accounting (Expected 2017)
+    Ph.D. Candidate, Accounting (Expected 2017)
 
 |BR|
 
@@ -80,9 +80,6 @@ Education
     Minor `Economics <https://rose-hulman.edu/econ/>`_
 
 
-
-Working Papers
---------------------------------------------------------------------------------
 .. 8888888b.
 .. 888   Y88b
 .. 888    888
@@ -95,8 +92,17 @@ Working Papers
 ..                    888
 ..                    888
 
-`Debt Contracting on Management <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757508>`_
-with Brian Akins and David De Angelis, 2016
+Working Papers
+--------------------------------------------------------------------------------
+
+* `Risk Fact or Fiction: The information content of risk factor disclosures </research/job-market-paper.html>`_, 2016 (job market paper)
+* `Debt Contracting on Management <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757508>`_ with Brian Akins and David De Angelis, 2016
+
+Work in process
+--------------------------------------------------------------------------------
+
+* Contracting on Performance: Creditors vs. Shareholders with Brian Akins, Jonathan Bitting, and David De Angelis, 2016
+
 
 
 
@@ -118,7 +124,7 @@ Teaching
 
     Summer 2014 – Financial Accounting (BUSI 305)
 
-      - Size: 16, Evaluations: 1.24 on scale from 7–1 (96.6%).
+      - Evaluations: 1.24 on scale from 7–1 (96.6%).
 
 
 
@@ -164,36 +170,30 @@ Work Experience
 
 Graduate Researcher - |RICE|_ - 2011–Present
 
-    Supervised by `Karen Nelson <http://business.rice.edu/Karen_Nelson/>`_
-
-    *Overview*: Collected and analyzed structured and unstructured data from
-    various sources.
-
-    *Skills used*: Econometrics, textual information extraction,
-    natural language processing, `Python`, `STATA`, `SAS`.
+    Supervised by Karen Nelson, Brian Akins
 
 |BR|
 
-Undergraduate Researcher - |RHIT|_, 2005–2007
+Application Engineer -
+`Graftek Imaging <https://graftek.biz/>`_ -
+2010–2011
 
-    Supervised by `Dr. Tina Hudson <http://www.rose-hulman.edu/~hudson/>`_
-
-    *Overview*: Designed and sent to fabrication, a feedback circuitry for a sarcomere simulating IC designed originally by Professor Hudson.
-
-    *Skills used*: Cadence mask layout and simulation packages, VLSI design
-
+    *Overview*: Developed products for vision inspection and control systems, both on a team and independently.
 
 |BR|
 
-Hotline tutor and supervisor - `Homework Hotline Inc. <http://askrose.org/>`__, 2003 – 2007
+Application Engineer/Field Sales Engineer -
+`National Instruments <http://ni.com>`_ -
+2007–2009
 
-    *Overview*: Hotline Supervisor and tutor for middle- and high-school students.
-    Supervised hotline, managing schedules and issue escalations.
+    *Overview*: Worked in application engineering on technical support and proof of concept project development.
+    Responsible for field sales in Northern Alberta, Saskatchewan, and Manitoba.
+
 
 |BR|
 |BR|
 
-Updated: 2016-04-01
+Updated: 2016-10-26
 
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
@@ -221,7 +221,7 @@ Updated: 2016-04-01
 
 .. _Github: https://github.com/gaulinmp
 
-.. |RHIT| replace:: Rose Hulman Institute of Technology
+.. |RHIT| replace:: Rose-Hulman Institute of Technology
 
 .. _RHIT: http://rose-hulman.edu/
 
