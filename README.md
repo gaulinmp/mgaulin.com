@@ -26,4 +26,4 @@ Or build final version:
 
 To deploy, remove --dry-run to actually sync with server. Assumes you have your server (here ``mgaulin``) configured via ssh config:
     
-    rsync ./output mgaulin:~/public_html/ --verbose --recursive --checksum --exclude=".*" --dry-run
+    rsync ./output/ mgaulin:~/public_html/ --verbose --recursive --checksum --exclude=".*" --dry-run
