@@ -191,6 +191,53 @@ Application Engineer/Field Sales Engineer -
 
 
 |BR|
+
+.. 888       888                  888           8888888888
+.. 888   o   888                  888           888
+.. 888  d8b  888                  888           888
+.. 888 d888b 888  .d88b.  888d888 888  888      8888888    888  888 88888b.
+.. 888d88888b888 d88""88b 888P"   888 .88P      888        `Y8bd8P' 888 "88b
+.. 88888P Y88888 888  888 888     888888K       888          X88K   888  888
+.. 8888P   Y8888 Y88..88P 888     888 "88b      888        .d8""8b. 888 d88P
+.. 888P     Y888  "Y88P"  888     888  888      8888888888 888  888 88888P"
+..                                                                  888
+..                                                                  888
+..                                                                  888
+
+Letter Writers
+--------------------------------------------------------------------------------
+**K. Ramesh** - Herbert S. Autrey Professor of Accounting
+
+    *Phone:* 713-348-5380 |BR|
+    *Email:* `rameshk@rice.edu <mailto:rameshk@rice.edu>`_ |BR|
+    *Address:* |BR| Rice University |BR|
+    P.O. Box 2932-MS 531 |BR|
+    Houston, Texas 77252-2932
+
+|BR|
+
+**Brian Rountree** - Associate Professor of Accounting
+
+    *Phone:* 713-348-5328 |BR|
+    *Email:* `rountree@rice.edu <mailto:rountree@rice.edu>`_  |BR|
+    *Address:* |BR| Rice University  |BR|
+    P.O. Box 2932-MS 531  |BR|
+    Houston, Texas 77252-2932
+
+|BR|
+
+
+**Shiva  Sivaramakrishnan** - Henry Gardiner Symonds Professor of Accounting
+
+    *Phone:* 713-348-4653 |BR|
+    *Email:* `ks30@rice.edu <mailto:ks30@rice.edu>`_  |BR|
+    *Address:* |BR| Rice University  |BR|
+    P.O. Box 2932-MS 531  |BR|
+    Houston, Texas 77252-2932
+
+
+
+|BR|
 |BR|
 
 Updated: 2016-10-26
@@ -235,3 +282,6 @@ Updated: 2016-10-26
 .. |BR| raw:: html
 
   <br />
+
+.. |nbsp| unicode:: 0xA0
+   :trim:
