@@ -101,7 +101,7 @@ Working Papers
 Work in process
 --------------------------------------------------------------------------------
 
-* Contracting on Performance: Creditors vs. Shareholders with Brian Akins, Jonathan Bitting, and David De Angelis, 2016
+* Contracting on Performance and Risk-Taking: Creditors vs. Shareholders with Brian Akins, Jonathan Bitting, and David De Angelis, 2016
 
 
 
@@ -209,8 +209,9 @@ References
     *Phone:* 713-348-5380 |BR|
     *Email:* `rameshk@rice.edu <mailto:rameshk@rice.edu>`_ |BR|
     *Address:* |BR| Rice University |BR|
-    P.O. Box 2932-MS 531 |BR|
-    Houston, Texas 77252-2932
+    236 McNair Hall |BR|
+    6100 Main St, Houston, TX 77005  |BR|
+    Houston, TX 77005
 
 |BR|
 
@@ -219,8 +220,9 @@ References
     *Phone:* 713-348-5328 |BR|
     *Email:* `rountree@rice.edu <mailto:rountree@rice.edu>`_  |BR|
     *Address:* |BR| Rice University  |BR|
-    P.O. Box 2932-MS 531  |BR|
-    Houston, Texas 77252-2932
+    340 McNair Hall |BR|
+    6100 Main St, Houston, TX 77005  |BR|
+    Houston, TX 77005
 
 |BR|
 
@@ -230,8 +232,9 @@ References
     *Phone:* 713-348-4653 |BR|
     *Email:* `ks30@rice.edu <mailto:ks30@rice.edu>`_  |BR|
     *Address:* |BR| Rice University  |BR|
-    P.O. Box 2932-MS 531  |BR|
-    Houston, Texas 77252-2932
+    336 McNair Hall |BR|
+    6100 Main St, Houston, TX 77005  |BR|
+    Houston, TX 77005
 
 
 
