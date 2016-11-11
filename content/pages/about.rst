@@ -11,11 +11,11 @@
 :Website:  `mgaulin.com <http://mgaulin.com>`__
 :Github:  `github.com/gaulinmp <https://github.com/gaulinmp>`__
 :LinkedIn: `maclean-gaulin <https://linkedin.com/pub/maclean-gaulin/7/2b9/a7a>`_
-:Address:  `Jesse H. Jones Graduate School of Business <http://business.rice.edu>`__
+:Address:  `Rice University <http://www.rice.edu>`__
 
-            `Rice University <http://www.rice.edu>`__
+            `Jesse H. Jones Graduate School of Business <http://business.rice.edu>`__
 
-            Office 359A
+            359A McNair Hall
 
             6100 Main St.
 

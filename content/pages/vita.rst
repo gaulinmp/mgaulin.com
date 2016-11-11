@@ -20,11 +20,11 @@ Contact
 
 .. container:: container pull-sm-left
 
-    |JBS|_
-
     |RICE|_
 
-    McNair 359a
+    |JBS|_
+
+    359a McNair Hall
 
     6100 Main St.
 
@@ -97,6 +97,8 @@ Working Papers
 
 * `Risk Fact or Fiction: The information content of risk factor disclosures </research/risk-fact-or-fiction-the-information-content-of-risk-factor-disclosures.html>`_, 2016 (job market paper)
 * `Debt Contracting on Management <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757508>`_ with Brian Akins and David De Angelis, 2016
+
+    * Presented at the 2016 Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016).
 
 Work in process
 --------------------------------------------------------------------------------
@@ -210,7 +212,7 @@ References
     *Email:* `rameshk@rice.edu <mailto:rameshk@rice.edu>`_ |BR|
     *Address:* |BR| Rice University |BR|
     236 McNair Hall |BR|
-    6100 Main St, Houston, TX 77005  |BR|
+    6100 Main St  |BR|
     Houston, TX 77005
 
 |BR|
@@ -221,7 +223,7 @@ References
     *Email:* `rountree@rice.edu <mailto:rountree@rice.edu>`_  |BR|
     *Address:* |BR| Rice University  |BR|
     340 McNair Hall |BR|
-    6100 Main St, Houston, TX 77005  |BR|
+    6100 Main St  |BR|
     Houston, TX 77005
 
 |BR|
@@ -233,7 +235,7 @@ References
     *Email:* `ks30@rice.edu <mailto:ks30@rice.edu>`_  |BR|
     *Address:* |BR| Rice University  |BR|
     336 McNair Hall |BR|
-    6100 Main St, Houston, TX 77005  |BR|
+    6100 Main St  |BR|
     Houston, TX 77005
 
 
@@ -241,7 +243,7 @@ References
 |BR|
 |BR|
 
-Updated: 2016-10-26
+Updated: 2016-11-11
 
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.

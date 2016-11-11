@@ -20,11 +20,12 @@ Contact
 
 .. container:: container pull-md-left
 
-    |JBS|_
 
     |RICE|_
 
-    McNair 359a
+    |JBS|_
+
+    359a McNair Hall
 
     6100 Main St.
 
@@ -204,7 +205,7 @@ Undergraduate Researcher - |RHIT|_, 2005–2007
 |BR|
 |BR|
 
-Updated: 2016-04-01
+Updated: 2016-11-11
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
 .. 888        888   8888b   888 888   d8P   d88P  Y88b
