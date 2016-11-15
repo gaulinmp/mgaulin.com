@@ -5,10 +5,9 @@
 :hasabstract: True
 
 
-I investigate whether managers disclose timely and informative risk factors by directly testing whether risk factor disclosures forecast adverse outcomes.
-I develop a set of measures based on the time series evolution of individual risk factors that reflect a manager's decision to add new, retain existing, and remove obsolete risk factors across annual reports.
-Consistent with informative disclosure practices, I find managers are more likely to identify new risk factors and less likely to remove existing risk factors in advance of adverse outcomes such as negative earnings or business litigation events.
-The predictive ability of these measures generally outperforms other risk disclosure proxies used in extant literature, and they are robust to the inclusion of controls for ex-ante risk and firm performance.
-By focusing on time series variation, I further study how risk factor disclosures respond to direct demand from two sources: shareholders (via private enforcement actions in the form of securities litigation) and regulators (via public enforcement actions in the form of SEC comment letters).
-Consistent with the litigation shield hypothesis, I find that private enforcement actions result in increased identification of new risk factors and removal of existing risk factors, and that this effect persists for multiple years.
-In contrast, I find that public enforcement results in no net increase in risk factors identified, but does result in more definitive disclosures as measured by more specific language and increased use of numbers.
+Using risk factors as the unit of disclosure, I show that managerial decision to add new, retain existing, and remove obsolete risk factors predict future adverse reporting and real outcomes, providing novel evidence that managers are removing stale disclosures on a timely basis.
+After controlling for firm-specific heterogeneity, I find that the count of risk factors disclosed rather than an aggregate word count which explains time-series variation in managerial disclosure decisions, consistent with the regulatory intent.
+I also examine the effect on disclosure equilibrium by studying managerial response to demand shocks from public and private enforcement actions.
+The results show that firms respond to investor demand in a manner consistent with the litigation shield hypothesis, and that this effect persists for multiple years.
+Consistent with the regulatory cost-benefit function, public enforcement does not result in a net increase in disclosed risk factors, but does evoke more definitive disclosures, evidenced by language that is more specific and an increased use of numbers.
+Finally, I find that managers provide additional risk factors prior to securities litigation, especially when they are subsequently settled, consistent with supply-side litigation shield effects.
