@@ -22,8 +22,6 @@ Contact
 
     |RICE|_
 
-    |JBS|_
-
     359a McNair Hall
 
     6100 Main St.
@@ -100,10 +98,12 @@ Working Papers
 
     * Presented at the 2016 Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016).
 
-Work in process
---------------------------------------------------------------------------------
-
 * Contracting on Performance and Risk-Taking: Creditors vs. Shareholders with Brian Akins, Jonathan Bitting, and David De Angelis, 2016
+
+.. Work in process
+.. --------------------------------------------------------------------------------
+..
+.. * Fighting for Control: Contractual Debt-Equity Relationships with Brian Akins and David De Angelis, 2016
 
 
 
@@ -126,7 +126,7 @@ Teaching
 
     Summer 2014 – Financial Accounting (BUSI 305)
 
-      - Evaluations: 1.24 on scale from 7–1 (96.6%).
+      - Evaluations: 1.24 on scale from 7–1 (1 being best).
 
 
 
@@ -172,7 +172,7 @@ Work Experience
 
 Graduate Researcher - |RICE|_ - 2011–Present
 
-    Supervised by Karen Nelson, Brian Akins
+    With Karen Nelson (2011-2013), Brian Akins (2013-present)
 
 |BR|
 
@@ -192,8 +192,6 @@ Application Engineer/Field Sales Engineer -
     Responsible for field sales in Northern Alberta, Saskatchewan, and Manitoba.
 
 
-|BR|
-|BR|
 
 .. 8888888b.           .d888
 .. 888   Y88b         d88P"
@@ -235,6 +233,18 @@ References
     *Email:* `ks30@rice.edu <mailto:ks30@rice.edu>`_  |BR|
     *Address:* |BR| Rice University  |BR|
     336 McNair Hall |BR|
+    6100 Main St  |BR|
+    Houston, TX 77005
+
+|BR|
+
+
+**Brian Akins** - Assistant Professor of Accounting
+
+    *Phone:* 713-348-4253 |BR|
+    *Email:* `akins@rice.edu <mailto:akins@rice.edu>`_  |BR|
+    *Address:* |BR| Rice University  |BR|
+    337 McNair Hall |BR|
     6100 Main St  |BR|
     Houston, TX 77005
 
