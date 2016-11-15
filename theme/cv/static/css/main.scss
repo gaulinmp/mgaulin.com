@@ -107,16 +107,16 @@ h6 { font-size: 0.8em; }
   }
 
   body {
-  font-size: 0.8em;
-  margin: 0px;
+    font-size: .9em;
+    margin: 0px;
+    padding: 0px;
   }
 }
 
 @page {
   size: auto;
 
-  margin: 20mm 0mm 20mm 0mm;
-
+  margin: 2cm 0pt 2cm 0pt;
 }
 
 /*****************************************************************************************
