@@ -6,8 +6,8 @@
 :ssrn: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757508
 :hasabstract: True
 
-This paper documents and studies the use of change of management restrictions (CMRs) in private loan contracts.
-These clauses give lenders explicit control over retention and/or selection decisions.
-Our analysis suggests CMRs are binding: the likelihood of CEO turnover more than halved during CMR terms.
-We find lenders include CMRs to mitigate human capital risk, particularly when this risk is exacerbated by contracting frictions or by creditor-shareholder conflicts of interest.
-Overall, our results imply that lenders can influence managerial turnover outside of default states, and human capital risk can impact debt contract design in ways not anticipated in the literature.
+This paper shows that human capital risk associated with management impacts debt contract design, but in ways not anticipated in the literature.
+We find that lenders can include change of management restrictions (CMRs) giving them explicit control over managerial retention and/or selection decisions.
+Lenders include CMRs to diminish human capital risk.
+Shareholders’ role in mitigating or exacerbating human capital risk faced by lenders is an important determinant of CMR inclusion.
+Additionally, the likelihood of CEO turnover more than halved during CMR terms, suggesting that these clauses are respected and that lenders can influence managerial turnover outside of default states.
