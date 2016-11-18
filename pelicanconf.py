@@ -29,7 +29,7 @@ GITHUB_URL = 'https://github.com/gaulinmp'
 # TWITTER_URL = 'https://twitter.com/mg_was_taken'
 SOCIAL = (
     ('Github', 'http://github.com/gaulinmp'),
-    ('LinkedIn', 'https://www.linkedin.com/in/maclean-gaulin-a7a2b97'),
+    ('LinkedIn', 'https://www.linkedin.com/in/maclean-gaulin'),
     # ('@mg_was_taken', 'http://twitter.com/mg_was_taken'),
 )
 
