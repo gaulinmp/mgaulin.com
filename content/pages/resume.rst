@@ -226,7 +226,7 @@ Updated: 2016-11-11
 
 .. |LinkedIn| replace:: maclean-gaulin
 
-.. _LinkedIn: https://linkedin.com/pub/maclean-gaulin/7/2b9/a7a
+.. _LinkedIn: https://www.linkedin.com/in/maclean-gaulin
 
 .. |Github| replace:: github.com/gaulinmp
 
