@@ -2,8 +2,8 @@
 :authors: Brian Akins, David De Angelis, Maclean Gaulin
 :paperstatus: Working Paper
 :tags: debt,contracting,human capital,covenants
-:date: 2016-10-17
-:ssrn: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757508
+:date: 2016-11-16
+:ssrn: https://papers.ssrn.com/abstract=2757508
 :hasabstract: True
 
 This paper shows that human capital risk associated with management impacts debt contract design, but in ways not anticipated in the literature.

@@ -1,7 +1,7 @@
 :title: Risk Fact or Fiction: The information content of risk factor disclosures
 :authors: Maclean Gaulin (job market paper)
 :tags: disclosure,risk factors,information overload
-:date: 2016-10-31
+:date: 2016-11-15
 :hasabstract: True
 
 
