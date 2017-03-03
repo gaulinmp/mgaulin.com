@@ -96,7 +96,7 @@ Working Papers
 * `Risk Fact or Fiction: The information content of risk factor disclosures </research/risk-fact-or-fiction-the-information-content-of-risk-factor-disclosures.html>`_, 2016 (job market paper)
 * `Debt Contracting on Management <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757508>`_ with Brian Akins and David De Angelis, 2016
 
-    * Presented at the Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016), Annual Meeting of the Northern Finance Association (2016). Accepted at at SFS Calvacade (2017).
+    * Presented at the Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016), Annual Meeting of the Financial Management Association (2016), Annual Meeting of the Northern Finance Association (2016). Accepted at SFS Calvacade (2017).
 
 * Contracting on Performance and Risk-Taking: Creditors vs. Shareholders with Brian Akins, Jonathan Bitting, and David De Angelis, 2016
 
