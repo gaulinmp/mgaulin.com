@@ -96,7 +96,7 @@ Working Papers
 * `Risk Fact or Fiction: The information content of risk factor disclosures </research/risk-fact-or-fiction-the-information-content-of-risk-factor-disclosures.html>`_, 2016 (job market paper)
 * `Debt Contracting on Management <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757508>`_ with Brian Akins and David De Angelis, 2016
 
-    * Presented at the 2016 Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016).
+    * Presented at the Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016), Annual Meeting of the Northern Finance Association (2016). Accepted at at SFS Calvacade (2017).
 
 * Contracting on Performance and Risk-Taking: Creditors vs. Shareholders with Brian Akins, Jonathan Bitting, and David De Angelis, 2016
 
@@ -127,6 +127,20 @@ Teaching
     Summer 2014 – Financial Accounting (BUSI 305)
 
       - Evaluations: 1.24 on scale from 7–1 (1 being best).
+
+
+Presentations
+--------------------------------------------------------------------------------
+.. 8888888b.                                             888
+.. 888   Y88b                                            888
+.. 888    888                                            888
+.. 888   d88P 888d888 .d88b.  .d8888b   .d88b.  88888b.  888888
+.. 8888888P"  888P"  d8P  Y8b 88K      d8P  Y8b 888 "88b 888
+.. 888        888    88888888 "Y8888b. 88888888 888  888 888
+.. 888        888    Y8b.          X88 Y8b.     888  888 Y88b.
+.. 888        888     "Y8888   88888P'  "Y8888  888  888  "Y888
+
+:2017: University of British Columbia, University of Chicago, University of Utah, University of Rochester, Chapman University, UCLA, Southern Methodist University, Division of Economic and Risk Analysis (SEC)
 
 
 
