@@ -27,3 +27,7 @@ Or build final version:
 To deploy, remove --dry-run to actually sync with server. Assumes you have your server (here ``mgaulin``) configured via ssh config:
     
     rsync ./output/ mgaulin:~/public_html/ --verbose --recursive --checksum --exclude=".*" --dry-run
+
+
+Or, use the make file with ``make rsync_upload``, which requires configuration of the makefile to point at your server.
+
