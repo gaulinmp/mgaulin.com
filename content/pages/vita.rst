@@ -157,7 +157,7 @@ Conferences Attended
 
 :2015:  Financial Accounting and Reporting Section Midyear Meeting. (Discussant of *The Effect of Institutional Ownership on Firm Transparency and Information Production* by Audra Boone and Joshua White; `SSRN <http://ssrn.com/abstract=2528891>`__)
 
-        - Loan Star Accounting Conference
+        - Lone Star Accounting Conference
 
 :2014:  Olin Business School conference. (Co-discussant of *Textual Analysis and International Financial Reporting: Large Sample Evidence* by Mark Lang and Lorien Stice-Lawrence; `SSRN <http://ssrn.com/abstract=2407572>`__)
 
@@ -167,7 +167,7 @@ Conferences Attended
 
         - International Accounting section of the AAA
 
-        - Loan Star Accounting Conference
+        - Lone Star Accounting Conference
 
 
 Work Experience
