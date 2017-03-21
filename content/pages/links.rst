@@ -31,6 +31,16 @@ I update the blog rarely, typically only when I'm working in SAS full time.
 `» <My SAS Coding Blog_>`__
 
 
+
+`Random Example Code Snippets <https://gist.github.com/gaulinmp>`__
+---------------------------------------------------------------------------
+I use gists to store random code snippets.
+Here are a few that may be helpful.
+
+* `Similarity score n-gram calculation. <https://gist.github.com/gaulinmp/da5825de975ed0ea6a24186434c24fe4>`__
+* `Singularize words. <https://gist.github.com/gaulinmp/7107e3bac5ea94af6c9d>`__
+
+
 ==================================================
 External Links
 ==================================================
@@ -49,11 +59,11 @@ for if the site moves again.
 
 
 
-`Ed deHaan's SAS links <EdSASL_>`_
----------------------------------------------------------------------------
-This great website written by
-`Ed deHaan <http://www.gsb.stanford.edu/faculty-research/faculty/ed-dehaan>`_
-includes many helpful SAS and STATA links.
-`» <EdSASL_>`_
-
-.. _EdSASL: http://faculty-gsb.stanford.edu/dehaan/SAS.html
+.. `Ed deHaan's SAS links <EdSASL_>`_
+.. ---------------------------------------------------------------------------
+.. This great website written by
+.. `Ed deHaan <http://www.gsb.stanford.edu/faculty-research/faculty/ed-dehaan>`_
+.. includes many helpful SAS and STATA links.
+.. `» <EdSASL_>`_
+..
+.. .. _EdSASL: http://faculty-gsb.stanford.edu/dehaan/SAS.html
