@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=mgaulin
+SSH_HOST=light
 SSH_PORT=22
-SSH_USER=
-SSH_TARGET_DIR=~/public_html/
+SSH_USER=ubuntu
+SSH_TARGET_DIR=/var/www/html/
 
 S3_BUCKET=my_s3_bucket
 
