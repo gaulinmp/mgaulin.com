@@ -4,6 +4,7 @@ python:
 cache: apt
 install:
     - "sudo apt-get install pandoc"
+    - "git clone --recursive https://github.com/getpelican/pelican-plugins ../pelican-plugins"
     - "pip install -r requirements.txt"
 script: "make publish"
 deploy:
