@@ -17,7 +17,11 @@ DEFAULT_DATE = 'fs'
 
 PLUGIN_PATHS = ['../pelican-plugins', ]
 PLUGINS = ['assets', ]
-JINJA_EXTENSIONS = ['jinja2.ext.with_', ]
+JINJA_ENVIRONMENT= {
+        'trim_blocks': True,
+        'lstrip_blocks': True,
+        'extensions': ['jinja2.ext.with_', ],
+    }
 
 # Blogroll
 LINKS = (('Pandas', 'http://pandas.pydata.org/pandas-docs/stable/'),

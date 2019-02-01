@@ -15,7 +15,7 @@
     {% endif %}
 
     {% if DISPLAY_PAGES_ON_MENU %}
-      {% for pg in PAGES %}
+      {% for pg in pages %}
         <a class='nav-link page {% if pg == page %}active{% endif %}'
            href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
       {% endfor %}

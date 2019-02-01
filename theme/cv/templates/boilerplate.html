@@ -24,6 +24,8 @@
     <!-- <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" /> -->
     {% assets filters="scss", output="css/main.compiled.css", "css/main.scss" %}
       <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
+      <!-- Fix this! Should not be static, the above should work. -->
+      <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/main.compiled.css" />
     {% endassets %}
 
     <!--[if IE]>
