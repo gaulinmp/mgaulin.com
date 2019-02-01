@@ -1,15 +1,13 @@
-:title: Do CEO Compensation Policies Respond to Debt Contracting?
+:title: The Salience of Creditors' Interests and CEO Compensation
 :authors: Brian Akins, Jonathan Bitting, David De Angelis, Maclean Gaulin
 :paperstatus: Working Paper
 :tags: debt,contracting,incentives,measurement
-:date: 2017-06-01
+:date: 2018-07-12
 :ssrn: https://papers.ssrn.com/abstract=2967326
 :hasabstract: True
 
-This paper shows that CEO compensation policies respond to debt contracting. We develop a novel
-measure of creditor-shareholder disagreement based on the performance metrics used in loan versus
-compensation contracts. Using a regression discontinuity design around loan covenant violations, we find
-that violations cause firms to switch toward the class of metrics used by creditors. Additionally, violating
-firms provide less risk-taking incentives and impose more difficult performance targets. Overall, our
-results are consistent with compensation contracts serving as commitment devices to decrease the agency
-cost of debt. They also reveal a channel through which creditors influence corporate governance.
+This paper shows that firms adjust CEO compensation policies when creditors' interests are salient.
+This effect helps explain controversial compensation practices such as weak performance incentives and short pay duration.
+Our findings also show that to mitigate the agency cost of debt, compensation contracts can reflect not only the firm's capital structure but the debt contract itself.
+For example, firms tend to contract on accounting-based goals when creditors do as well.
+We reach these conclusions both by studying a broad sample of firms seeking debt financing and by using a regression discontinuity design around loan covenant violations.

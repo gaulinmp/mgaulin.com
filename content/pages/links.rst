@@ -57,13 +57,8 @@ for if the site moves again.
 
 .. _CRSPLkup: http://www.crsp.chicagobooth.edu/products/documentation/compustat-cross-reference
 
+`Fast Name Matching in Python <namematch_>`_
+---------------------------------------------------------------------------
+Nice blog post on how to do name matching in python really quickly and reliably. Note the customization on strings (in the ``ngrams`` method), it may be benefitial to add more of that, things like translating COMPANY to CO, etc. » <namematch_>`_
 
-
-.. `Ed deHaan's SAS links <EdSASL_>`_
-.. ---------------------------------------------------------------------------
-.. This great website written by
-.. `Ed deHaan <http://www.gsb.stanford.edu/faculty-research/faculty/ed-dehaan>`_
-.. includes many helpful SAS and STATA links.
-.. `» <EdSASL_>`_
-..
-.. .. _EdSASL: http://faculty-gsb.stanford.edu/dehaan/SAS.html
+.. _namematch: https://bergvca.github.io/2017/10/14/super-fast-string-matching.html

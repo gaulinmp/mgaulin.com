@@ -20,16 +20,15 @@ Contact
 
 .. container:: container pull-md-left
 
+    |UTAHB|_
 
-    |RICE|_
+    |UTAH|_
 
-    |JBS|_
+    Spencer Fox Eccles Business Building
 
-    359a McNair Hall
+    1655 East Campus Center Drive
 
-    6100 Main St.
-
-    Houston, Texas 77005
+    Salt Lake City, UT 84112-8939
 
 
 .. container:: container pull-md-right
@@ -136,9 +135,14 @@ Work Experience
 ..                                                                  888
 ..                                                                  888
 
-Graduate Researcher - |RICE|_ - 2011–Present
+Assistant Professor of Accounting - |UTAHB|_, |UTAH|_ - 2017 - Present
 
-    Supervised by `Karen Nelson <http://business.rice.edu/Karen_Nelson/>`_
+    Teaching: Managerial Accounting
+
+
+Graduate Researcher - |RICE|_ - 2011–2017
+
+    Research Assistant to Karen Nelson, Brian Akins
 
     *Overview*: Collected and analyzed structured and unstructured data from
     various sources.
@@ -205,7 +209,7 @@ Undergraduate Researcher - |RHIT|_, 2005–2007
 |BR|
 |BR|
 
-Updated: 2016-11-11
+Updated: 2018-09-12
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
 .. 888        888   8888b   888 888   d8P   d88P  Y88b
@@ -215,6 +219,14 @@ Updated: 2016-11-11
 .. 888        888   888  Y88888 888  Y88b         "888
 .. 888        888   888   Y8888 888   Y88b  Y88b  d88P
 .. 88888888 8888888 888    Y888 888    Y88b  "Y8888P"
+
+.. |UTAH| replace:: University of Utah
+
+.. _UTAH: http://www.utah.edu
+
+.. |UTAHB| replace:: David Eccles School of Business
+
+.. _UTAHB: http://eccles.utah.edu/
 
 .. |JBS| replace:: Jesse H. Jones Graduate School of Business
 
