@@ -1,45 +1,47 @@
-<div class="card card-block">
-  <h3 class="card-title">
-    <a href="{%- if article.ssrn -%}{{ article.ssrn }}
-             {%- else -%}{{ SITEURL }}/{{ article.url }}{%- endif -%}
-             " rel="bookmark"
-        title="{{ article.title|striptags }}">{{ article.title }}</a>
-  </h3>
+<div class="card mt-2">
+  <div class="card-body">
+    <h3 class="card-title">
+      <a href="{%- if article.ssrn -%}{{ article.ssrn }}
+               {%- else -%}{{ SITEURL }}/{{ article.url }}{%- endif -%}
+               " rel="bookmark"
+          title="{{ article.title|striptags }}">{{ article.title }}</a>
+    </h3>
 
-  {% if article.authors %}
-  <div class="authors">
-    <h6 class="card-subtitle text-muted">
-      <address class="vcard author">
-        By {% for author in article.authors %}
-            {%- if AUTHOR_SAVE_AS -%}
-            <a class="author" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-            {%- else -%}
-            {{ author }}
-            {%- endif -%}
-          {%- if not loop.last %}, {% endif %}
-        {% endfor %}
-      </address>
-    </h6>
-  </div>
-  {% endif %}
-
-  <div class="card-indent">
-    <p class="article-date card-text" title="{{ article.date.isoformat() }}">
-      {% if article.paperstatus %}
-      {{ article.paperstatus }}
-      {%- else -%}
-      Date
-      {%- endif -%}
-      : {{ article.locale_date }}</p>
-
-    {% if article.abstract|default(True) %}
-      <details class='abstract justify'>
-        <summary>{% if article.hasabstract %}Abstract{% else %}Summary{% endif %}</summary>
-        <p class='card-text'>
-          {% if article.hasabstract|default(False) %}{{ article.content }}
-          {% else %}{{ article.summary}}{% endif %}
-        </p>
-      </details>
+    {% if article.authors %}
+    <div class="authors">
+      <h6 class="card-subtitle text-muted">
+        <address class="vcard author">
+          By {% for author in article.authors %}
+              {%- if AUTHOR_SAVE_AS -%}
+              <a class="author" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+              {%- else -%}
+              {{ author }}
+              {%- endif -%}
+            {%- if not loop.last %}, {% endif %}
+          {% endfor %}
+        </address>
+      </h6>
+    </div>
     {% endif %}
+
+    <div class="card-indent">
+      <p class="article-date card-text" title="{{ article.date.isoformat() }}">
+        {% if article.paperstatus %}
+        {{ article.paperstatus }}
+        {%- else -%}
+        Date
+        {%- endif -%}
+        : {{ article.locale_date }}</p>
+
+      {% if article.abstract|default(True) %}
+        <details class='abstract justify'>
+          <summary>{% if article.hasabstract %}Abstract{% else %}Summary{% endif %}</summary>
+          <p class='card-text'>
+            {% if article.hasabstract|default(False) %}{{ article.content }}
+            {% else %}{{ article.summary}}{% endif %}
+          </p>
+        </details>
+      {% endif %}
+    </div>
   </div>
 </div>

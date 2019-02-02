@@ -17,6 +17,7 @@ DEFAULT_DATE = 'fs'
 
 PLUGIN_PATHS = ['../pelican-plugins', ]
 PLUGINS = ['assets', ]
+
 JINJA_ENVIRONMENT= {
         'trim_blocks': True,
         'lstrip_blocks': True,

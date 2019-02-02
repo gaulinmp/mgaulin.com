@@ -18,7 +18,7 @@ Contact
 .. Y88b  d88P Y88..88P 888  888 Y88b.  888  888 Y88b.    Y88b.
 ..  "Y8888P"   "Y88P"  888  888  "Y888 "Y888888  "Y8888P  "Y888
 
-.. container:: container pull-md-left
+.. container:: float-md-left w-auto print-left
 
     |UTAHB|_
 
@@ -31,7 +31,7 @@ Contact
     Salt Lake City, UT 84112-8939
 
 
-.. container:: container pull-md-right
+.. container:: float-md-right w-auto print-right
 
     :Phone: `(512) 524-9736 <tel:+15125249736>`__
     :Email: `gaulinmp@gmail.com <mailto:gaulinmp@gmail.com>`__

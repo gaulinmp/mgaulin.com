@@ -4,12 +4,12 @@
 
 {% block content %}
 <div class="container">
-<p>
-  Maclean (Mac) Gaulin is an assistant professor at the David Eccles School of Business, University of Utah.
-  His background is in Electrical Engineering where he worked in the industry for four years before joining the Ph.D. program at Rice University.
-  His research interests include corporate narrative disclosures, information demand, dissemination, and resultant economic outcomes.
-</p>
-<br><br>
+  <p>
+    Maclean (Mac) Gaulin is an assistant professor at the David Eccles School of Business, University of Utah.
+    His background is in Electrical Engineering where he worked in the industry for four years before joining the Ph.D. program at Rice University.
+    His research interests include corporate narrative disclosures, information demand, dissemination, and resultant economic outcomes.
+  </p>
+<br /><br />
 </div>
 
 
@@ -17,9 +17,9 @@
     {% for cat,arts in categories  if 'Research' == cat  %}
       <div class="container ">
         <h2>{{ cat }}</h2>
-        {% for article in arts %}
+          {% for article in arts %}
             {% include 'category_card.html' %}
-        {% endfor %}
+          {% endfor %}
       </div>
     {% endfor %}
     {% for cat,arts in categories  if 'Research' != cat  %}

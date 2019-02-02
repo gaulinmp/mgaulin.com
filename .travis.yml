@@ -4,10 +4,9 @@ python:
 cache: apt
 install:
     - "sudo apt-get install pandoc"
-    - 'npm install -g bower sass'
+    - 'npm install -g sass'
     - "git clone --recursive https://github.com/getpelican/pelican-plugins ../pelican-plugins"
     - "pip install -r requirements.txt"
-    - 'bower install'
 script: "make publish"
 deploy:
   provider: pages
