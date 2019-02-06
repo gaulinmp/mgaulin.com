@@ -8,10 +8,12 @@ install:
     - "node --version"
     - "npm --version"
     - "npm install -g sass"
+    - "which sass"
+    - "sass --version"
     - "git clone --recursive https://github.com/getpelican/pelican-plugins ../pelican-plugins"
     - "pip install -r requirements.txt"
     - "sass theme/cv/static/css/main.scss test.css"
-    - "cat test.css"
+    - "tail test.css"
 script: "make publish"
 deploy:
   provider: pages
