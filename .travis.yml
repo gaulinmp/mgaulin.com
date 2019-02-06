@@ -7,7 +7,7 @@ install:
     - "sudo apt-get install pandoc"
     - "node --version"
     - "npm --version"
-    - "sudo npm install -g sass"
+    - "npm install -g sass"
     - "git clone --recursive https://github.com/getpelican/pelican-plugins ../pelican-plugins"
     - "pip install -r requirements.txt"
     - "sass theme/cv/static/css/main.scss test.css"
