@@ -5,7 +5,9 @@ python:
 cache: apt
 install:
     - "sudo apt-get install pandoc"
-    - "sudo gem install sass"
+    - "which sass"
+    - "sass --version"
+    - "gem install sass"
     - "which sass"
     - "sass --version"
     - "git clone --recursive https://github.com/getpelican/pelican-plugins ../pelican-plugins"
