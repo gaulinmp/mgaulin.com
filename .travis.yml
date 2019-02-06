@@ -5,8 +5,6 @@ python:
 cache: apt
 install:
     - "sudo apt-get install pandoc"
-    - "which sass"
-    - "sass --version"
     - "gem install sass"
     - "which sass"
     - "sass --version"
