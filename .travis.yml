@@ -14,8 +14,8 @@ install:
 script: "make publish"
 after_script:
   - git config credential.helper "store --file=.git/credentials"
-  - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
-  - git clone --quiet --branch=master https://${GH_TOKEN}@github.com/gaulinmp/gaulinmp.github.io ../gaulinmp.github.io
+  - echo "https://${GITHUB_TOKEN}:@github.com" > .git/credentials
+  - git clone --quiet --branch=master https://${GITHUB_TOKEN}@github.com/gaulinmp/gaulinmp.github.io ../gaulinmp.github.io
   - rsync -rv --exclude=.git ./output ../gaulinmp.github.io
   - cd ../gaulinmp.github.io
   - git add -f .
