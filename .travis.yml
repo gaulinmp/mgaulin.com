@@ -3,6 +3,9 @@ language: python
 python:
   - "3.6"
 cache: apt
+branches:
+  only:
+  - master
 install:
   - "sudo apt-get install pandoc"
   - "gem install sass"
@@ -10,8 +13,10 @@ install:
   - "pip install -r requirements.txt"
 script: "make publish"
 after_script:
+  - git config credential.helper "store --file=.git/credentials"
+  - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
   - git clone --quiet --branch=master https://${GH_TOKEN}@github.com/gaulinmp/gaulinmp.github.io ../gaulinmp.github.io
-  - cp -r ./output ../gaulinmp.github.io
+  - rsync -rv --exclude=.git ./output ../gaulinmp.github.io
   - cd ../gaulinmp.github.io
   - git add -f .
   - git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to Github Pages"
