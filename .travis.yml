@@ -1,23 +1,30 @@
 dist: xenial
 language: python
 python:
-    - "3.6"
+  - "3.6"
 cache: apt
 install:
-    - "sudo apt-get install pandoc"
-    - "gem install sass"
-    - "git clone --recursive https://github.com/getpelican/pelican-plugins ../pelican-plugins"
-    - "pip install -r requirements.txt"
+  - "sudo apt-get install pandoc"
+  - "gem install sass"
+  - "git clone --recursive https://github.com/getpelican/pelican-plugins ../pelican-plugins"
+  - "pip install -r requirements.txt"
 script: "make publish"
-deploy:
-  provider: pages
-  repo: gaulinmp.github.io
-  target-branch: master
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  keep-history: true
-  local-dir: ./output
-  verbose: true
+after_script:
+  - git clone --quiet --branch=master https://${GH_TOKEN}@github.com/gaulinmp/gaulinmp.github.io ../gaulinmp.github.io
+  - cp -r ./output ../gaulinmp.github.io
+  - cd ../gaulinmp.github.io
+  - git add -f .
+  - git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to Github Pages"
+  - git push origin master
+#deploy:
+#  provider: pages
+#  repo: gaulinmp.github.io
+#  target-branch: master
+#  skip-cleanup: true
+#  github-token: $GITHUB_TOKEN
+#  keep-history: true
+#  local-dir: ./output
+#  verbose: true
 notifications:
-    email:
-        on_failure: always
+  email:
+    on_failure: always
