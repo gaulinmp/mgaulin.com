@@ -18,8 +18,7 @@ DEFAULT_DATE = 'fs'
 PLUGIN_PATHS = ['../pelican-plugins', ]
 PLUGINS = ['assets', ]
 
-ASSET_CONFIG = (('SASS_LINE_COMMENTS', ''),
-                ('SASS_DEBUG_INFO', True), )
+ASSET_CONFIG = ()
 
 JINJA_ENVIRONMENT= {
         'trim_blocks': True,
