@@ -1,7 +1,7 @@
 :title: Contact
 
 
-.. image:: {filename}/static/Mac_Gaulin_Photo.jpg
+.. image:: {static}/static/Mac_Gaulin_Photo.jpg
    :width: 200 px
    :alt: Mac Gaulin
 

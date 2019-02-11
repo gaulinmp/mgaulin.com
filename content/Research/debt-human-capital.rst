@@ -1,8 +1,8 @@
 :title: Debt Contracting on Management
 :authors: Brian Akins, David De Angelis, Maclean Gaulin
-:paperstatus: Working Paper
+:paperstatus: JF, forthcoming
 :tags: debt,contracting,human capital,covenants
-:date: 2018-08-30
+:date: 2019-02-11
 :ssrn: https://papers.ssrn.com/abstract=2757508
 :hasabstract: True
 

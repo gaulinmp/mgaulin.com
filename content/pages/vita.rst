@@ -92,13 +92,16 @@ Education
 ..                    888
 ..                    888
 
+
+
+Research Papers
+--------------------------------------------------------------------------------
+* `Debt Contracting on Management <https://papers.ssrn.com/abstract=2757508>`__ with Brian Akins and David De Angelis, 2019. *Journal of Finance, forthcoming*
+    .. * Presented at the Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016), Annual Meeting of the Financial Management Association (2016), Annual Meeting of the Northern Finance Association (2016), SFS Cavalcade (2017).
+
+
 Working Papers
 --------------------------------------------------------------------------------
-
-* `Debt Contracting on Management <https://papers.ssrn.com/abstract=2757508>`__ with Brian Akins and David De Angelis, 2018. *Revise and resubmit – Journal of Finance*
-
-    * Presented at the Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016), Annual Meeting of the Financial Management Association (2016), Annual Meeting of the Northern Finance Association (2016), SFS Cavalcade (2017).
-
 * `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__ with Brian Akins, Jonathan Bitting, and David De Angelis, 2018
 
     * Presented at China International Conference in Finance (2017), Lone Star Finance Conference (2017), Annual Meeting of the Financial Management Association (2017), Rice University (2017).
