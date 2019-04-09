@@ -113,7 +113,7 @@ Working Papers
 .. Work in process
 .. --------------------------------------------------------------------------------
 ..
-.. * Fighting for Control: Contractual Debt-Equity Relationships with Brian Akins and David De Angelis, 2016
+.. * Forward Looking Statements, with Daniela De la Parra and K. Ramesh
 
 
 
@@ -153,6 +153,8 @@ Presentations
 .. 888        888    Y8b.          X88 Y8b.     888  888 Y88b.
 .. 888        888     "Y8888   88888P'  "Y8888  888  888  "Y888
 
+:2018: Rotman CPA Ontario Centre for Accounting Innovation Research Conference
+
 :2017: University of British Columbia, University of Chicago, University of Utah, University of Rochester, Chapman University, UCLA, Southern Methodist University, Division of Economic and Risk Analysis (SEC)
 
 
@@ -168,9 +170,13 @@ Conferences Attended
 .. Y88b  d88P Y88..88P 888  888 888         X88
 ..  "Y8888P"   "Y88P"  888  888 888     88888P'
 
+:2019:  Midwest Finance Association Annual Meeting. (Discussant of *Too Much of a Good Thing? Risk Disclosure and Corporate Innovation* by Shiu-Yik Au and Hongping Tan; `SSRN <http://ssrn.com/abstract=3043952>`__)
+
 :2018:  Financial Accounting and Reporting Section Midyear Meeting.
 
         - AAA New Faculty Consortium
+
+        - Rotman CPA Ontario Centre for Accounting Innovation Research Conference
 
 :2015:  Financial Accounting and Reporting Section Midyear Meeting. (Discussant of *The Effect of Institutional Ownership on Firm Transparency and Information Production* by Audra Boone and Joshua White; `SSRN <http://ssrn.com/abstract=2528891>`__)
 
@@ -253,7 +259,7 @@ Graduate Researcher - |RICE|_ - 2011–2017
 |BR|
 |BR|
 
-Updated: 2018-9-12
+Updated: 2019-04-09
 
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.

@@ -2,7 +2,7 @@
 :authors: Maclean Gaulin
 :paperstatus: Working Paper
 :tags: disclosure,risk factors,information overload
-:date: 2019-01-30
+:date: 2019-04-09
 :hasabstract: True
 
 
