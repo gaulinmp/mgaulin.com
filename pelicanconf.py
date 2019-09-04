@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import os
+from datetime import date
 
 AUTHOR = 'Maclean Gaulin'
 SITENAME = 'Maclean Gaulin'
@@ -10,6 +11,7 @@ SITEURL = '//mgaulin.com'
 PATH = 'content'
 
 TIMEZONE = 'America/Chicago'
+CURRENT_YEAR = date.today().year
 
 DEFAULT_LANG = 'en'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
