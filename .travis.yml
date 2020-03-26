@@ -8,8 +8,9 @@ branches:
   - master
 install:
   - "sudo apt-get install pandoc"
-  - "gem install sass"
-  - "git clone --recursive https://github.com/getpelican/pelican-plugins ../pelican-plugins"
+  - "npm install -g sass"
+  - "mkdir ../thirdparty"
+  - "git clone --recursive https://github.com/getpelican/pelican-plugins ../thirdparty/pelican-plugins"
   - "pip install -r requirements.txt"
 script: "make publish"
 after_script:
