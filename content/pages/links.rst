@@ -59,6 +59,6 @@ for if the site moves again.
 
 `Fast Name Matching in Python <namematch_>`_
 ---------------------------------------------------------------------------
-Nice blog post on how to do name matching in python really quickly and reliably. Note the customization on strings (in the ``ngrams`` method), it may be benefitial to add more of that, things like translating COMPANY to CO, etc. » <namematch_>`_
+Nice blog post on how to do name matching in python really quickly and reliably. Note the customization on strings (in the ``ngrams`` method), it may be benefitial to add more of that, things like translating COMPANY to CO, etc. `» <namematch_>`_
 
 .. _namematch: https://bergvca.github.io/2017/10/14/super-fast-string-matching.html

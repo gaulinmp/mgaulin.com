@@ -1,6 +1,11 @@
-__pycache__/
+# Ignore compiled output folder
 output/*
+
+# Code ignores
 node_modules/
-srv.pid
+__pycache__/
+.vscode
+.ipynb_checkpoints
 *.py[oc]
 /*.pdf
+srv.pid

@@ -96,7 +96,7 @@ Education
 
 Research Papers
 --------------------------------------------------------------------------------
-* `Debt Contracting on Management <https://papers.ssrn.com/abstract=2757508>`__ with Brian Akins and David De Angelis, 2019. *Journal of Finance, forthcoming*
+* `Debt Contracting on Management <https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12893>`__ with Brian Akins and David De Angelis, 2019. *Journal of Finance, forthcoming*
     .. * Presented at the Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016), Annual Meeting of the Financial Management Association (2016), Annual Meeting of the Northern Finance Association (2016), SFS Cavalcade (2017).
 
 
@@ -110,10 +110,11 @@ Working Papers
 
     * Presented at University of British Columbia, University of Chicago, University of Utah, University of Rochester, Chapman University, UCLA, Southern Methodist University, Division of Economic and Risk Analysis (SEC).
 
-.. Work in process
-.. --------------------------------------------------------------------------------
-..
-.. * Forward Looking Statements, with Daniela De la Parra and K. Ramesh
+* Disclosure of Protected Forward Looking Statements, with Daniela De la Parra and K. Ramesh
+
+    * To be presented at the 2020 Lone Star Conference.
+
+
 
 
 
@@ -135,6 +136,8 @@ Teaching
 **University of Utah**
 
     Managerial Accounting (ACCTG 6001)
+
+    EDGAR data in Python short-course (`link <https://github.com/gaulinmp/edgar_shortcourse>`__)
 
 
 **Rice University**
@@ -265,7 +268,7 @@ Graduate Researcher - |RICE|_ - 2011–2017
 |BR|
 |BR|
 
-Updated: 2019-09-04
+Updated: 2020-02-10
 
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
