@@ -17,7 +17,7 @@ DEFAULT_LANG = 'en'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 DEFAULT_DATE = 'fs'
 
-PLUGIN_PATHS = ['../thirdparty/pelican-plugins', ]
+PLUGIN_PATHS = ['../thirdparty/pelican-jupyter', '../thirdparty/pelican-plugins', ]
 PLUGINS = ['assets', ]
 
 ASSET_CONFIG = ()
@@ -78,3 +78,20 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+
+# ███╗   ██╗ ██████╗ ████████╗███████╗██████╗  ██████╗  ██████╗ ██╗  ██╗███████╗
+# ████╗  ██║██╔═══██╗╚══██╔══╝██╔════╝██╔══██╗██╔═══██╗██╔═══██╗██║ ██╔╝██╔════╝
+# ██╔██╗ ██║██║   ██║   ██║   █████╗  ██████╔╝██║   ██║██║   ██║█████╔╝ ███████╗
+# ██║╚██╗██║██║   ██║   ██║   ██╔══╝  ██╔══██╗██║   ██║██║   ██║██╔═██╗ ╚════██║
+# ██║ ╚████║╚██████╔╝   ██║   ███████╗██████╔╝╚██████╔╝╚██████╔╝██║  ██╗███████║
+# ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚══════╝╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝
+
+MARKUP = ("md", "rst", "ipynb")
+
+# from pelican_jupyter import markup as nb_markup
+# PLUGINS = [nb_markup]
+PLUGINS.append('pelican_jupyter')
+IPYNB_MARKUP_USE_FIRST_CELL = True
+
+IGNORE_FILES = [".ipynb_checkpoints"]
