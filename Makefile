@@ -1,4 +1,7 @@
+SHELL=/bin/bash
+
 PY?=python3
+#PELICAN?=conda activate pelican && pelican
 PELICAN?=pelican
 PELICANOPTS=
 

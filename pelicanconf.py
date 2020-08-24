@@ -1,8 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
 import os
+import sys
 from datetime import date
+
+THIRDPARTY_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../thirdparty'))
+JUPYTER_DIR = os.path.join(THIRDPARTY_DIR, 'pelican-jupyter')
+PLUGINS_DIR = os.path.join(THIRDPARTY_DIR, 'pelican-plugins')
+sys.path.append(JUPYTER_DIR)
 
 AUTHOR = 'Maclean Gaulin'
 SITENAME = 'Maclean Gaulin'
@@ -17,7 +22,7 @@ DEFAULT_LANG = 'en'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 DEFAULT_DATE = 'fs'
 
-PLUGIN_PATHS = ['../thirdparty/pelican-jupyter', '../thirdparty/pelican-plugins', ]
+PLUGIN_PATHS = ['../thirdparty/pelican-plugins', ]
 PLUGINS = ['assets', ]
 
 ASSET_CONFIG = ()
@@ -89,9 +94,9 @@ AUTHOR_FEED_RSS = None
 
 MARKUP = ("md", "rst", "ipynb")
 
-# from pelican_jupyter import markup as nb_markup
-# PLUGINS = [nb_markup]
-PLUGINS.append('pelican_jupyter')
+from pelican_jupyter import markup as nb_markup
+PLUGINS.append(nb_markup)
+# PLUGINS.append('pelican-ipynb')
 IPYNB_MARKUP_USE_FIRST_CELL = True
 
 IGNORE_FILES = [".ipynb_checkpoints"]
