@@ -1,5 +1,5 @@
 :title: What is the True Active Prevalence of COVID-19?
-:authors: Mu-Jeung Yang, Nathan Seegert, Maclean Gaulin, Adam Looney, Brian Orleans, Andrew T.Pavia, Kristina Stratford, Matthew Samore, Steven Alder
+:authors: Mu-Jeung Yang, Nathan Seegert, Maclean Gaulin, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, Steven Alder
 :paperstatus: Working Paper
 :tags: covid-19,field study,policy,real time tracking,modeling
 :date: 2020-08-15
