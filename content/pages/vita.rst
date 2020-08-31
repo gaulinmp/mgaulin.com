@@ -102,7 +102,7 @@ Research Papers
 
 Working Papers
 --------------------------------------------------------------------------------
-* `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__ with Brian Akins, Jonathan Bitting, and David De Angelis, 2018
+* `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__ with Brian Akins, Jonathan Bitting, and David De Angelis, 2019
 
     * Presented at China International Conference in Finance (2017), Lone Star Finance Conference (2017), Annual Meeting of the Financial Management Association (2017), Rice University (2017).
 
@@ -112,9 +112,11 @@ Working Papers
 
 * Disclosure of Protected Forward Looking Statements, with Daniela De la Parra and K. Ramesh
 
-    * To be presented at the 2020 Lone Star Conference.
+    * Presented at the 2020 Lone Star Conference.
 
+* What is the True Active Prevalence of COVID-19?, with Mu-Jeung Yang, Nathan Seegert, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, and Steven Alder, 2020
 
+* What drives the Effectiveness of Social Distancing in Combating COVID-19 across U.S. States?, with Mu-Jeung Yang, Nathan Seegert, Adam Looney, 2020
 
 
 
