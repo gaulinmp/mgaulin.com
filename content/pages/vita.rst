@@ -36,6 +36,7 @@ Contact
     :Phone: `(512) 524-9736 <tel:+15125249736>`__
     :Email: `mac.gaulin@utah.edu <mailto:mac.gaulin@utah.edu>`__
     :Web: `mgaulin.com <http://mgaulin.com>`__
+    :Github: |Github|_
 
 
 
@@ -96,7 +97,7 @@ Education
 
 Research Papers
 --------------------------------------------------------------------------------
-* `Debt Contracting on Management <https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12893>`__ with Brian Akins and David De Angelis, 2019. *Journal of Finance, forthcoming*
+* `Debt Contracting on Management <https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12893>`__ with Brian Akins and David De Angelis, 2019. *Journal of Finance, 2020* (`SSRN <https://papers.ssrn.com/abstract=2757508>`__)
     .. * Presented at the Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016), Annual Meeting of the Financial Management Association (2016), Annual Meeting of the Northern Finance Association (2016), SFS Cavalcade (2017).
 
 
@@ -137,7 +138,7 @@ Teaching
 
 **University of Utah**
 
-    Managerial Accounting (ACCTG 6001)
+    Managerial Accounting (ACCTG 6001, Professional MBA Teaching Award 2020)
 
     EDGAR data in Python short-course (`link <https://github.com/gaulinmp/edgar_shortcourse>`__)
 
@@ -145,6 +146,23 @@ Teaching
 **Rice University**
 
     Financial Accounting (BUSI 305)
+
+
+Service
+--------------------------------------------------------------------------------
+..  .d8888b.                            d8b
+.. d88P  Y88b                           Y8P
+.. Y88b.
+..  "Y888b.    .d88b.  888d888 888  888 888  .d8888b .d88b.
+..     "Y88b. d8P  Y8b 888P"   888  888 888 d88P"   d8P  Y8b
+..       "888 88888888 888     Y88  88P 888 888     88888888
+.. Y88b  d88P Y8b.     888      Y8bd8P  888 Y88b.   Y8b.
+..  "Y8888P"   "Y8888  888       Y88P   888  "Y8888P "Y8888
+
+**University of Utah**
+
+    Curriculum Committee (2020)
+
 
 
 Presentations
@@ -177,7 +195,9 @@ Conferences Attended
 .. Y88b  d88P Y88..88P 888  888 888         X88
 ..  "Y8888P"   "Y88P"  888  888 888     88888P'
 
-:2019:  Midwest Finance Association Annual Meeting. (Discussant of *Too Much of a Good Thing? Risk Disclosure and Corporate Innovation* by Shiu-Yik Au and Hongping Tan; `SSRN <http://ssrn.com/abstract=3043952>`__)
+:2020:  Utah Winter Accounting Conference (Discussant of *Are Social Media Analysts Disrupting the Information Content of Sell-Side Analysts' Reports?* by Michael Drake, James Moon, Brady Twedt, and James Warren; `link <http://www.utah-wac.org/2020/Papers/moon_UWAC.pdf>`__)
+
+:2019:  Midwest Finance Association Annual Meeting (Discussant of *Too Much of a Good Thing? Risk Disclosure and Corporate Innovation* by Shiu-Yik Au and Hongping Tan; `SSRN <http://ssrn.com/abstract=3043952>`__)
 
         - CARE Conference on Financial Regulation Effectiveness and the Role of Academic Research
 
@@ -220,7 +240,7 @@ Academic Work Experience
 
 Assistant Professor of Accounting - |UTAHB|_, |UTAH|_ - 2017 - Present
 
-    *Teaching*: Managerial Accounting (ACCTG 6001)
+    .. *Teaching*: Managerial Accounting (ACCTG 6001)
 
 |BR|
 
@@ -228,44 +248,6 @@ Graduate Researcher - |RICE|_ - 2011–2017
 
     With Karen Nelson (2011-2013), Brian Akins (2013-2017)
 
-.. br replacement here
-..
-.. Application Engineer -
-.. `Graftek Imaging <https://graftek.biz/>`_ -
-.. 2010–2011
-..
-..     *Overview*: Developed products for vision inspection and control systems, both on a team and independently.
-..
-.. br replacement here
-..
-.. Application Engineer/Field Sales Engineer -
-.. `National Instruments <http://ni.com>`_ -
-.. 2007–2009
-..
-..     *Overview*: Worked in application engineering on technical support and proof of concept project development.
-..     Responsible for field sales in Northern Alberta, Saskatchewan, and Manitoba.
-..
-
-
-.. 8888888b.           .d888
-.. 888   Y88b         d88P"
-.. 888    888         888
-.. 888   d88P .d88b.  888888 .d88b.  888d888 .d88b.  88888b.   .d8888b .d88b.  .d8888b
-.. 8888888P" d8P  Y8b 888   d8P  Y8b 888P"  d8P  Y8b 888 "88b d88P"   d8P  Y8b 88K
-.. 888 T88b  88888888 888   88888888 888    88888888 888  888 888     88888888 "Y8888b.
-.. 888  T88b Y8b.     888   Y8b.     888    Y8b.     888  888 Y88b.   Y8b.          X88
-.. 888   T88b "Y8888  888    "Y8888  888     "Y8888  888  888  "Y8888P "Y8888   88888P'
-
-.. References
-.. --------------------------------------------------------------------------------
-.. **K. Ramesh** - Herbert S. Autrey Professor of Accounting
-..
-..     *Phone:* 713-348-5380 |BR|
-..     *Email:* `rameshk@rice.edu <mailto:rameshk@rice.edu>`_ |BR|
-..     *Address:* |BR| Rice University |BR|
-..     236 McNair Hall |BR|
-..     6100 Main St  |BR|
-..     Houston, TX 77005
 
 |BR|
 |BR|
