@@ -97,7 +97,7 @@ Education
 
 Research Papers
 --------------------------------------------------------------------------------
-* `Debt Contracting on Management <https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12893>`__ with Brian Akins and David De Angelis, 2019. *Journal of Finance, 2020* (`SSRN <https://papers.ssrn.com/abstract=2757508>`__)
+* `Debt Contracting on Management <https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12893>`__ with Brian Akins and David De Angelis. *Journal of Finance, 2020* (`SSRN <https://papers.ssrn.com/abstract=2757508>`__)
     .. * Presented at the Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016), Annual Meeting of the Financial Management Association (2016), Annual Meeting of the Northern Finance Association (2016), SFS Cavalcade (2017).
 
 
