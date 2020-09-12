@@ -14,7 +14,7 @@
 
     <style>
       .stat_number {
-        font-size: 2em;
+        font-size: 1.8em;
         color: black;
         font-weight: bolder;
         padding-top: 6pt;
@@ -85,9 +85,9 @@
         var chart = new google.visualization.LineChart(document.getElementById('pi_chart'));
         chart.draw(chartdata, options);
 
-        document.getElementById('estimated_prevalence').innerHTML = Math.floor(estimated_prevalence * 10000) + "/100k";
+        document.getElementById('estimated_prevalence').innerHTML = Math.floor(estimated_prevalence * 100*1000) + "/100k";
         document.getElementById('estimated_cases').innerHTML = "(" + estimated_cases + ")";
-        document.getElementById('reported_prevalence').innerHTML = Math.floor(reported_prevalence * 10000) + "/100k";
+        document.getElementById('reported_prevalence').innerHTML = Math.floor(reported_prevalence * 100*1000) + "/100k";
         document.getElementById('reported_cases').innerHTML = "(" + reported_cases + ")";
         document.getElementById('updated_date').innerHTML = updated_date;
 
