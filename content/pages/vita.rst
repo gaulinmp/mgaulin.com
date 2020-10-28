@@ -103,6 +103,8 @@ Research Papers
 
 Working Papers
 --------------------------------------------------------------------------------
+* `SARS-CoV-2 seroprevalence and detection fraction in Utah urban populations from a probability-based sample <https://www.medrxiv.org/content/10.1101/2020.10.26.20219907v1>`__, with Matthew Samore et al., 2020
+
 * `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__ with Brian Akins, Jonathan Bitting, and David De Angelis, 2019
 
     * Presented at China International Conference in Finance (2017), Lone Star Finance Conference (2017), Annual Meeting of the Financial Management Association (2017), Rice University (2017).
