@@ -12,7 +12,7 @@
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript" src="//mgaulin.com/files/estimated_reported.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
-    <!-- Load the d3 library. -->
+    <!-- Load the d3 library -->
     <script src="https://d3js.org/d3.v6.min.js" charset="utf-8"></script>
 
     <style>
@@ -23,21 +23,6 @@
         padding-top: 6pt;
       }
     </style>
-
-    <!-- Modal graph popup -->
-    <div class="modal fade" id="graphPopup" tabindex="-1" role="dialog" aria-labelledby="graphPopupTitle"
-      aria-hidden="true">
-      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-        <div class="modal-content">
-          <div class="modal-body">
-            <div style="width: 100%; height: 550px">
-              <div id="graphPopupInner" >&nbsp;</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
 
     <div class="container">
       <div class="row">
@@ -69,36 +54,24 @@
       </div>
     </div>
 
+    <!-- Modal graph popup -->
+    <div class="modal fade" id="graphPopup" tabindex="-1" role="dialog" aria-labelledby="graphPopupTitle"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            <div style="width: 100%; height: 550px">
+              <div id="graphPopupInner">&nbsp;</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <script type="text/javascript">
       google.charts.load('current', {
         'packages': ['corechart']
       });
-
-      function drawPopupChart(data) {
-        let googleData = [
-          [ {label: 'Date', id: 'Date'},
-            {label: 'Reported', id: 'Reported'},
-            {label: 'Estimated', id: 'Estimated'}]
-          ].concat(data.map(d => [d.date, d.reported, d.estimated]));
-
-        var options = {
-          title: 'Estimated Coronavirus in ' + data[0]['state'],
-          curveType: 'function',
-          width: "100%",
-          height: "550px",
-          legend: {
-            position: 'bottom'
-          },
-          chart: {
-            interpolateNulls: true
-          }
-        };
-
-        var chartdata = google.visualization.arrayToDataTable(googleData);
-
-        var chart = new google.visualization.LineChart(document.getElementById('graphPopupInner'));
-        chart.draw(chartdata, options);
-      }
 
       var updating_map = false;
 
@@ -188,6 +161,33 @@
       //////////////////////////////////////////////////////////////////////////
       // Function that draws state grid, called when data is done loading.
       //////////////////////////////////////////////////////////////////////////
+      function drawPopupChart(data) {
+        let googleData = [
+          [ {label: 'Date', id: 'Date'},
+            {label: 'Reported', id: 'Reported'},
+            {label: 'Estimated', id: 'Estimated'}]
+          ].concat(data.map(d => [d.date, d.reported, d.estimated]));
+
+        var options = {
+          title: 'Estimated Coronavirus in ' + data[0]['state'],
+          curveType: 'function',
+          width: "100%",
+          height: "550px",
+          legend: {
+            position: 'bottom'
+          },
+          chart: {
+            interpolateNulls: true
+          }
+        };
+
+        var chartdata = google.visualization.arrayToDataTable(googleData);
+
+        var chart = new google.visualization.LineChart(document.getElementById('graphPopupInner'));
+        chart.draw(chartdata, options);
+      }
+
+
       function draw_state_grid(data, whichLine="reported") {
         if (updating_map) {console.log("Race condition!");return false;}
         updating_map = true;
