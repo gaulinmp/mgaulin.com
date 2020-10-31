@@ -43,8 +43,7 @@
             <p></p>
             <p></p>
             <p>
-              This graph presents estimated and reported (from CDC) data on the case rates in Utah (per 100,000).
-              The calculation of the estimated case rates comes from <a
+              This plot shows the Reported or Estimated case rates over time for each state. Click on any state to view a larger State graph. Estimation is calculated as described in <a
               href="/research/what-is-the-true-active-prevalence-of-covid-19.html">our working paper</a>, and is based on the 7-day average of daily positivity rate (# positives / # tests).
               See the paper for more information.
             </p>
@@ -169,7 +168,7 @@
           ].concat(data.map(d => [d.date, d.reported, d.estimated]));
 
         var options = {
-          title: 'Estimated Coronavirus in ' + data[0]['state'],
+          title: 'Reported & Estimated Coronavirus in ' + data[0]['state'],
           curveType: 'function',
           width: "100%",
           height: "550px",
@@ -236,7 +235,7 @@
             $('#graphPopup').on('shown.bs.modal', function (e) {
               drawPopupChart(d[1]);
             })
-          })
+          }, { passive: true })
           ;
 
         // comment out scales
