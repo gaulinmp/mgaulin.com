@@ -16,10 +16,8 @@
 
     {% if DISPLAY_PAGES_ON_MENU %}
       {% for pg in pages %}
-        {% if pg.title != 'Coronavirus' -%}
         <a class='nav-link page {% if pg == page %}active{% endif %}'
             href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
-        {% endif %}
       {% endfor %}
     {% endif %}
 

@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Coronavirus</title>
+    <title>Covid</title>
     <meta name="slug" content="covidmap" />
     <meta name="tags" content="covid-19,SAR-COV-2,Coronavirus,tracking,research" />
     <meta name="date" content="2020-08-24 10:00" />
@@ -47,7 +47,7 @@
               href="/research/what-is-the-true-active-prevalence-of-covid-19.html">our working paper</a>, and is based on the 7-day average of daily positivity rate (# positives / # tests).
               See the paper for more information.
             </p>
-            <p class="text-muted small" style='padding-top:1em;'>Updated <span id="updated_date"></span></p>
+            <!-- <p class="text-muted small" style='padding-top:1em;'>Updated <span id="updated_date"></span></p> -->
           </div>
         </div>
       </div>
@@ -228,6 +228,7 @@
           .attr("width", stateWidth)
           .attr("height", stateHeight)
           .attr("fill", "#F0F0F0")
+          .style("cursor", "zoom-in")
           // Source: https://bl.ocks.org/d3noob/a22c42db65eb00d4e369
           .style("pointer-events", "all")
           .on("click", function(event, d) {
