@@ -163,12 +163,12 @@
       function drawPopupChart(data) {
         let googleData = [
           [ {label: 'Date', id: 'Date'},
-            {label: 'Reported', id: 'Reported'},
-            {label: 'Estimated', id: 'Estimated'}]
+            {label: 'Reported Active Cases', id: 'Reported'},
+            {label: 'Estimated Active Cases', id: 'Estimated'}]
           ].concat(data.map(d => [d.date, d.reported, d.estimated]));
 
         var options = {
-          title: 'Reported & Estimated Coronavirus in ' + data[0]['state'],
+          title: 'Reported & Estimated Active Coronavirus Cases / 100,000 in ' + data[0]['state'],
           curveType: 'function',
           width: "100%",
           height: "550px",
@@ -177,6 +177,9 @@
           },
           chart: {
             interpolateNulls: true
+          },
+          vAxis: {
+            title: "Active Cases / 100,000"
           }
         };
 
