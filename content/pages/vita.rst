@@ -103,6 +103,12 @@ Research Papers
 
 Working Papers
 --------------------------------------------------------------------------------
+* `Information Revelation of Decentralized Crisis Management: Evidence from Natural Experiments on Mask Mandates <https://papers.ssrn.com/abstract=3736407>`__, with Nathan Seegert, Mu-Jeung Yang, Francisco Navarro-Sanchez, 2020
+
+* `What Is the Active Prevalence of COVID-19? <https://papers.ssrn.com/abstract=3734463>`__, with Mu-Jeung Yang, Nathan Seegert, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, and Steven Alder, 2020
+
+* `What Drives the Effectiveness of Social Distancing in Combating COVID-19 across U.S. States? <https://papers.ssrn.com/abstract=3734452>`__, with Nathan Seegert, Mu-Jeung Yang, Adam Looney, 2020
+
 * `SARS-CoV-2 seroprevalence and detection fraction in Utah urban populations from a probability-based sample <https://www.medrxiv.org/content/10.1101/2020.10.26.20219907v1>`__, with Matthew Samore et al., 2020
 
 * `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__ with Brian Akins, Jonathan Bitting, and David De Angelis, 2019
@@ -116,10 +122,6 @@ Working Papers
 * Disclosure of Protected Forward Looking Statements, with Daniela De la Parra and K. Ramesh
 
     * Presented at the 2020 Lone Star Conference.
-
-* What is the True Active Prevalence of COVID-19?, with Mu-Jeung Yang, Nathan Seegert, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, and Steven Alder, 2020
-
-* What drives the Effectiveness of Social Distancing in Combating COVID-19 across U.S. States?, with Mu-Jeung Yang, Nathan Seegert, Adam Looney, 2020
 
 
 

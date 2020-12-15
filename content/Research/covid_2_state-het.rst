@@ -1,9 +1,9 @@
 :title: What drives the Effectiveness of Social Distancing in Combating COVID-19 across U.S. States?
-:authors: Mu-Jeung Yang, Maclean Gaulin, Nathan Seegert, Adam Looney
+:authors: Nathan Seegert, Mu-Jeung Yang, Maclean Gaulin, Adam Looney
 :paperstatus: Working Paper
 :tags: covid-19,field test,economic impact,policy
 :date: 2020-08-20
-:ssrn:
+:ssrn: https://papers.ssrn.com/abstract=3734452
 :hasabstract: True
 
 We combine structural estimation with ideas from Machine Learning to estimate a model with information-based voluntary social distancing and state lockdowns to analyze the factors driving the effect of social distancing in mitigating COVID-19.

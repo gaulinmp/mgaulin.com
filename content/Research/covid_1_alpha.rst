@@ -1,9 +1,9 @@
-:title: What is the True Active Prevalence of COVID-19?
+:title: What is the Active Prevalence of COVID-19?
 :authors: Mu-Jeung Yang, Nathan Seegert, Maclean Gaulin, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, Steven Alder
 :paperstatus: Working Paper
 :tags: covid-19,field study,policy,real time tracking,modeling
 :date: 2020-08-15
-:ssrn:
+:ssrn: https://papers.ssrn.com/abstract=3734463
 :hasabstract: True
 
 We provide a method to track active prevalence of COVID-19 in real time, correcting for time-varying sample selection in symptom-based testing data and incomplete tracking of recovered cases and fatalities.
