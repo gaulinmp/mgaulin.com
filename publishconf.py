@@ -15,12 +15,12 @@ from pelicanconf import *
 AUTHOR = "Maclean Gaulin"
 SITENAME = "Maclean Gaulin"
 
-# No MGAULIN environmental variable defaults to github CI integration
-if os.environ.get("MGAULIN", False):
-    SITEURL = "//mgaulin.com"
-    # GOOGLE_ANALYTICS = "UA-37522001-1" # old
-    GOOGLE_ANALYTICS = "G-97YF1Y9P10"
-else:
+SITEURL = "//mgaulin.com"
+GOOGLE_ANALYTICS = "G-97YF1Y9P10"
+# GOOGLE_ANALYTICS = "UA-37522001-1" # old
+
+# No TRAVISCI environmental variable defaults to github CI integration
+if os.environ.get("TRAVISCI", False):
     SITEURL = "//gaulinmp.github.io"
     GOOGLE_ANALYTICS = "G-7JF9CCJ5BH"
 
