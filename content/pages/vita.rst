@@ -105,23 +105,28 @@ Working Papers
 --------------------------------------------------------------------------------
 * `Information Revelation of Decentralized Crisis Management: Evidence from Natural Experiments on Mask Mandates <https://papers.ssrn.com/abstract=3736407>`__, with Nathan Seegert, Mu-Jeung Yang, Francisco Navarro-Sanchez, 2020
 
+* Doing Good rather than Doing Well:What Stimulates Personal Data Sharing and Why?, with Nathan Seegert, Mu-Jeung Yang, Francisco Navarro-Sanchez, 2020
+
 * `What Is the Active Prevalence of COVID-19? <https://papers.ssrn.com/abstract=3734463>`__, with Mu-Jeung Yang, Nathan Seegert, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, and Steven Alder, 2020
 
 * `What Drives the Effectiveness of Social Distancing in Combating COVID-19 across U.S. States? <https://papers.ssrn.com/abstract=3734452>`__, with Nathan Seegert, Mu-Jeung Yang, Adam Looney, 2020
 
 * `SARS-CoV-2 seroprevalence and detection fraction in Utah urban populations from a probability-based sample <https://www.medrxiv.org/content/10.1101/2020.10.26.20219907v1>`__, with Matthew Samore et al., 2020
 
-* `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__ with Brian Akins, Jonathan Bitting, and David De Angelis, 2019
+* Compensation Practice Network, with Xiaoxia Peng, 2020
+
+* Disclosure of Protected Forward Looking Statements, with Daniela De la Parra and K. Ramesh, 2020
+
+    * Presented at the 2020 Lone Star Conference.
+
+* `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__ with Brian Akins, Jonathan Bitting, and David De Angelis, 2020
 
     * Presented at China International Conference in Finance (2017), Lone Star Finance Conference (2017), Annual Meeting of the Financial Management Association (2017), Rice University (2017).
 
-* `Risk Fact or Fiction: The information content of risk factor disclosures </research/risk-fact-or-fiction-the-information-content-of-risk-factor-disclosures.html>`__, 2018
+* `Risk Fact or Fiction: The information content of risk factor disclosures </research/risk-fact-or-fiction-the-information-content-of-risk-factor-disclosures.html>`__, 2019
 
-    * Presented at University of British Columbia, University of Chicago, University of Utah, University of Rochester, Chapman University, UCLA, Southern Methodist University, Division of Economic and Risk Analysis (SEC).
+    * Presented at UC Boulder, University of British Columbia, University of Chicago, University of Utah, University of Rochester, Chapman University, UCLA, Southern Methodist University, Division of Economic and Risk Analysis (SEC).
 
-* Disclosure of Protected Forward Looking Statements, with Daniela De la Parra and K. Ramesh
-
-    * Presented at the 2020 Lone Star Conference.
 
 
 
@@ -142,7 +147,9 @@ Teaching
 
 **University of Utah**
 
-    Managerial Accounting (ACCTG 6001, Professional MBA Teaching Award 2020)
+    Professional MBA Managerial Accounting (ACCTG 6001, Professional MBA Teaching Award 2020)
+
+    Online MBA Managerial Accounting (ACCTG 6001)
 
     EDGAR data in Python short-course (`link <https://github.com/gaulinmp/edgar_shortcourse>`__)
 
@@ -166,6 +173,8 @@ Service
 **University of Utah**
 
     Curriculum Committee (2020)
+
+    HERO Project Logistics and Planning (2020-2021)
 
 
 
@@ -198,6 +207,8 @@ Conferences Attended
 .. 888    888 888  888 888  888 888    "Y8888b.
 .. Y88b  d88P Y88..88P 888  888 888         X88
 ..  "Y8888P"   "Y88P"  888  888 888     88888P'
+
+:2021: Financial Accounting and Reporting Section Midyear Meeting (Discussant of *Voluntary Performance Disclosures in the CD&A* by Heidi A. Packard, Andrea Pawliczek, and A. Nicole Skinner; `link <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776925>`__)
 
 :2020:  Utah Winter Accounting Conference (Discussant of *Are Social Media Analysts Disrupting the Information Content of Sell-Side Analysts' Reports?* by Michael Drake, James Moon, Brady Twedt, and James Warren; `link <http://www.utah-wac.org/2020/Papers/moon_UWAC.pdf>`__)
 
@@ -256,7 +267,7 @@ Graduate Researcher - |RICE|_ - 2011–2017
 |BR|
 |BR|
 
-Updated: 2020-02-10
+Updated: 2021-02-25
 
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
