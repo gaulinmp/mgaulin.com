@@ -121,6 +121,26 @@ Skills
 
 
 
+Projects
+--------------------------------------------------------------------------------
+.. 8888888b.                   d8b                   888
+.. 888   Y88b                  Y8P                   888
+.. 888    888                                        888
+.. 888   d88P 888d888 .d88b.  8888  .d88b.   .d8888b 888888 .d8888b
+.. 8888888P"  888P"  d88""88b "888 d8P  Y8b d88P"    888    88K
+.. 888        888    888  888  888 88888888 888      888    "Y8888b.
+.. 888        888    Y88..88P  888 Y8b.     Y88b.    Y88b.       X88
+.. 888        888     "Y88P"   888  "Y8888   "Y8888P  "Y888  88888P'
+..                             888
+..                            d88P
+..                          888P"
+
+:pyedgar: Library for downloading and parsing EDGAR Filings from SEC. `Github <https://github.com/gaulinmp/pyedgar>`__
+
+:reslib: Library for organizing research projects and basic utilities. `Github <https://github.com/gaulinmp/reslib>`__
+
+
+
 Work Experience
 --------------------------------------------------------------------------------
 .. 888       888                  888           8888888888
@@ -209,7 +229,7 @@ Undergraduate Researcher - |RHIT|_, 2005–2007
 |BR|
 |BR|
 
-Updated: 2018-09-12
+Updated: 2021-05-05
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
 .. 888        888   8888b   888 888   d8P   d88P  Y88b
