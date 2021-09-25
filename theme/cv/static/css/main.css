@@ -15,20 +15,8 @@ body {
     padding-top: 3rem;
 }
 
-/* Code Blocks from Pygments */
-code, .highlight{
-    font-size: .8em;
-    font-style: normal;
-    margin: 1em 2em;
-    padding: 0 .5em;
-    font-weight: normal;
-    font-family: Consolas, "Droid Sans Mono", monospace;
-}
-.highlight pre{
-  padding: .5em 1em;
-}
-span.lineno {
-  color: #777777;
+a {
+  color: #0055BB;
 }
 
 /* Headings */
@@ -61,19 +49,48 @@ header.title h1{
 }
 
 header.title nav {
-	background:transparent;
-	margin: 1em auto;
-	padding: 0;
-	text-align: center;
-  font-style:italic;
-	border-radius: 5px;
+  background: transparent;
+  margin: 1em;
+  padding: 0;
+  text-align: center;
+  font-style: italic;
   font-size: 1.2em;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -o-sticky;
+  position: sticky;
+  top: 15px;
+}
+
+header.title a {
+  outline: 0;
+  text-decoration: none;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+header.title a:hover,
+header.title a:active {
+  text-shadow: 0 0 0.5em #BFBFBF;
 }
 
 header .nav-link {
   margin: auto 1em auto 0;
+}
+
+header div.meta-info {
+  padding-top: .25em;
+  padding-left: 2em;
+}
+
+@media (min-width: 768px) {
+  header.title a {
+    display: block;
+    margin-bottom: .75em;
+  }
 }
 
 .ractive {font-weight: bold; text-decoration: underline;}
@@ -83,29 +100,36 @@ header .nav-link {
 ********************* Body Content ***************************
 **************************************************************
 **************************************************************/
-.body {
+main {
   padding-bottom: 5rem;
 }
 
-a {
-  outline: 0;
-  text-decoration: none;
+main article header {
+  margin-bottom: 1em;
+}
+main article header a.title {
   color: inherit;
 }
 
-a:hover,
-a:active {
-  /*text-decoration: underline;*/
-  text-shadow:0 0 .5em #BFBFBF;
+main .section {
+  margin: 1em 0;
 }
 
-section.body article header {
-  margin-bottom: 1em;
+main .field-name {
+  font-weight: bold;
+  padding-right: 0.5em;
+  text-align: right;
 }
 
-header div.meta-info {
-  padding-top: .25em;
-  padding-left: 2em;
+#working-papers li, #research-papers li {
+  margin-bottom: .4em;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+
+tt.literal {
+  font-family: Consolas, "Droid Sans Mono", monospace;
+  font-size: 0.8em;
 }
 
 .card .card-indent{
@@ -113,6 +137,57 @@ header div.meta-info {
   padding-top: .25em;
   padding-bottom: .25em;
   padding-left: 1em;
+}
+
+section.body article header {
+  margin-bottom: 1em;
+}
+
+.resume .section {
+  margin-left: 1em;
+}
+
+.resume h2,
+.resume h3,
+.resume h4,
+.resume h5 {
+  margin-left: -1em;
+}
+
+.resume h2 {
+  text-align: center;
+}
+
+.resume h3 {
+  border-bottom: solid 1px black;
+  font-size: 1.4em;
+}
+
+.resume blockquote {
+  padding-left: 2em;
+}
+
+
+/* Code Blocks from Pygments */
+code,
+.highlight {
+  font-size: 0.8em;
+  font-style: normal;
+  margin: 1em 2em;
+  padding: 0 0.5em;
+  font-weight: normal;
+  font-family: Consolas, "Droid Sans Mono", monospace;
+}
+
+code pre,
+.highlight pre {
+  padding: 0.5em 1em;
+}
+
+code span.lineno,
+.highlight span.lineno {
+  color: #777777;
+  margin-right: 0.5em;
 }
 
 /*************************************************************
@@ -157,4 +232,47 @@ header div.meta-info {
   font-weight: bold;
   text-align: right;
   padding-right: 1em;
+}
+
+/* Print PDF */
+@media print {
+
+  .no-print,
+  .no-print * {
+    display: none !important;
+  }
+
+  html,
+  body,
+  .container {
+    min-width: auto !important;
+  }
+
+  .print-left {
+    float: left !important;
+  }
+
+  .print-right {
+    float: right !important;
+  }
+
+  body {
+    font-size: 0.9em;
+    padding: 0pt;
+    margin: 0pt;
+  }
+
+  a {
+    outline: 0;
+    text-decoration: none;
+    color: inherit;
+  }
+  a:link {
+    text-decoration: none;
+  }
+}
+
+@page {
+  size: auto;
+  margin: 2.5cm;
 }

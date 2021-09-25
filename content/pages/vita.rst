@@ -100,6 +100,9 @@ Research Papers
 * `Debt Contracting on Management <https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12893>`__ with Brian Akins and David De Angelis. *Journal of Finance, 2020* (`SSRN <https://papers.ssrn.com/abstract=2757508>`__)
     .. * Presented at the Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016), Annual Meeting of the Financial Management Association (2016), Annual Meeting of the Northern Finance Association (2016), SFS Cavalcade (2017).
 
+* `SARS-CoV-2 seroprevalence and detection fraction in Utah urban populations from a probability-based sample <https://www.medrxiv.org/content/10.1101/2020.10.26.20219907v1>`__, with Matthew Samore et al., 2021, Forthcoming Emerging Infectious Diseases
+
+
 
 Working Papers
 --------------------------------------------------------------------------------
@@ -111,9 +114,9 @@ Working Papers
 
 * `What Drives the Effectiveness of Social Distancing in Combating COVID-19 across U.S. States? <https://papers.ssrn.com/abstract=3734452>`__, with Nathan Seegert, Mu-Jeung Yang, Adam Looney, 2020
 
-* `SARS-CoV-2 seroprevalence and detection fraction in Utah urban populations from a probability-based sample <https://www.medrxiv.org/content/10.1101/2020.10.26.20219907v1>`__, with Matthew Samore et al., 2020
+* Semantic vs Literal Disclosure Similarity, with Xiaoxia Peng, 2020
 
-* Compensation Practice Network, with Xiaoxia Peng, 2020
+    * Presented at Rice University
 
 * Disclosure of Protected Forward Looking Statements, with Daniela De la Parra and K. Ramesh, 2020
 
@@ -208,7 +211,7 @@ Presentations and Conferences
 .. Y88b  d88P Y88..88P 888  888 888         X88
 ..  "Y8888P"   "Y88P"  888  888 888     88888P'
 
-:2021: Financial Accounting and Reporting Section Midyear Meeting (Discussant of *Voluntary Performance Disclosures in the CD&A* by Heidi A. Packard, Andrea Pawliczek, and A. Nicole Skinner; `link <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776925>`__)
+:2021: Rice University, Financial Accounting and Reporting Section Midyear Meeting (Discussant of *Voluntary Performance Disclosures in the CD&A* by Heidi A. Packard, Andrea Pawliczek, and A. Nicole Skinner; `link <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776925>`__)
 
 :2020:  Utah Winter Accounting Conference (Discussant of *Are Social Media Analysts Disrupting the Information Content of Sell-Side Analysts' Reports?* by Michael Drake, James Moon, Brady Twedt, and James Warren; `link <http://www.utah-wac.org/2020/Papers/moon_UWAC.pdf>`__)
 

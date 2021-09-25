@@ -17,8 +17,8 @@ DEFAULT_LANG = 'en'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 DEFAULT_DATE = 'fs'
 
-PLUGIN_PATHS = ['../thirdparty/pelican-plugins', ]
-PLUGINS = ['assets', ]
+# PLUGIN_PATHS = ['../thirdparty/pelican-plugins', ]
+# PLUGINS = ['assets', ]
 
 ASSET_CONFIG = ()
 
