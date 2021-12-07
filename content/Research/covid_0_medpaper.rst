@@ -1,9 +1,9 @@
 :title: SARS-CoV-2 seroprevalence and detection fraction in Utah urban populations from a probability-based sample
 :authors: Matthew Samore, Adam Looney, Brian Orleans, Tom Greene, Nathan Seegert, Julio C Delgado, Angela Presson, Chong Zhang, Jian Ying, Yue Zhang, Jincheng Shen, Patricia Slev, Maclean Gaulin, Mu-Jeung Yang, Andrew T. Pavia, Stephen C Alder
-:paperstatus: Forthcoming, Emerging Infectious Diseases
+:paperstatus: Published, Emerging Infectious Diseases
 :tags: covid-19,field study
 :date: 2021-07-23
-:ssrn: https://www.medrxiv.org/content/10.1101/2020.10.26.20219907v1
+:ssrn: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8544980/
 :hasabstract: True
 
 This project's aim was to generate an unbiased estimate of the incidence

@@ -3,9 +3,8 @@
 :paperstatus: Working Paper
 :tags: disclosure, compensation, cd&a
 :date: 2021-09-15
-:ssrn:
+:ssrn: https://papers.ssrn.com/abstract=3971286
 :hasabstract: True
-:status: draft
 
 The Accounting literature has recently grown its adoption of textual data as a source of accounting information.
 Recent studies have employed various methods to do large scale natural language processing to compare textual documents across firms and across time.

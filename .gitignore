@@ -9,3 +9,5 @@ __pycache__/
 *.py[oc]
 /*.pdf
 srv.pid
+.DS_Store
+.github

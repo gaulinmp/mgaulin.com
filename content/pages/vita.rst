@@ -100,21 +100,13 @@ Research Papers
 * `Debt Contracting on Management <https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12893>`__ with Brian Akins and David De Angelis. *Journal of Finance, 2020* (`SSRN <https://papers.ssrn.com/abstract=2757508>`__)
     .. * Presented at the Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016), Annual Meeting of the Financial Management Association (2016), Annual Meeting of the Northern Finance Association (2016), SFS Cavalcade (2017).
 
-* `SARS-CoV-2 seroprevalence and detection fraction in Utah urban populations from a probability-based sample <https://www.medrxiv.org/content/10.1101/2020.10.26.20219907v1>`__, with Matthew Samore et al., 2021, Forthcoming Emerging Infectious Diseases
+* `SARS-CoV-2 seroprevalence and detection fraction in Utah urban populations from a probability-based sample <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8544980/>`__, with Matthew Samore et al., 2021, Emerging Infectious Diseases
 
 
 
 Working Papers
 --------------------------------------------------------------------------------
-* `Information Revelation of Decentralized Crisis Management: Evidence from Natural Experiments on Mask Mandates <https://papers.ssrn.com/abstract=3736407>`__, with Nathan Seegert, Mu-Jeung Yang, Francisco Navarro-Sanchez, 2020
-
-* Doing Good rather than Doing Well:What Stimulates Personal Data Sharing and Why?, with Nathan Seegert, Mu-Jeung Yang, Francisco Navarro-Sanchez, 2020
-
-* `What Is the Active Prevalence of COVID-19? <https://papers.ssrn.com/abstract=3734463>`__, with Mu-Jeung Yang, Nathan Seegert, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, and Steven Alder, 2020
-
-* `What Drives the Effectiveness of Social Distancing in Combating COVID-19 across U.S. States? <https://papers.ssrn.com/abstract=3734452>`__, with Nathan Seegert, Mu-Jeung Yang, Adam Looney, 2020
-
-* Semantic vs Literal Disclosure Similarity, with Xiaoxia Peng, 2020
+* `Semantic vs Literal Disclosure Similarity <https://papers.ssrn.com/abstract=3971286>`__, with Xiaoxia Peng, 2020
 
     * Presented at Rice University
 
@@ -129,6 +121,16 @@ Working Papers
 * `Risk Fact or Fiction: The information content of risk factor disclosures </research/risk-fact-or-fiction-the-information-content-of-risk-factor-disclosures.html>`__, 2019
 
     * Presented at UC Boulder, University of British Columbia, University of Chicago, University of Utah, University of Rochester, Chapman University, UCLA, Southern Methodist University, Division of Economic and Risk Analysis (SEC).
+
+* `Information Revelation of Decentralized Crisis Management: Evidence from Natural Experiments on Mask Mandates <https://papers.ssrn.com/abstract=3736407>`__, with Nathan Seegert, Mu-Jeung Yang, Francisco Navarro-Sanchez, 2020
+
+* Doing Good rather than Doing Well:What Stimulates Personal Data Sharing and Why?, with Nathan Seegert, Mu-Jeung Yang, Francisco Navarro-Sanchez, 2020
+
+* `What Is the Active Prevalence of COVID-19? <https://papers.ssrn.com/abstract=3734463>`__, with Mu-Jeung Yang, Nathan Seegert, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, and Steven Alder, 2020
+
+* `What Drives the Effectiveness of Social Distancing in Combating COVID-19 across U.S. States? <https://papers.ssrn.com/abstract=3734452>`__, with Nathan Seegert, Mu-Jeung Yang, Adam Looney, 2020
+
+
 
 
 
@@ -229,7 +231,7 @@ Presentations and Conferences
 |BR|
 |BR|
 
-Updated: 2021-05-05
+Updated: 2021-12-03
 
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
