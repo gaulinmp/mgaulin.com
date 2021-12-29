@@ -87,13 +87,13 @@ Education
 
 |RICE|_, |JBS|_, Houston, TX USA
 
-    Ph.D Candidate, Accounting (Expected 2017)
+    Ph.D in Accounting (2011-2017)
 
 |BR|
 
 |RHIT|_, Terre Haute, IN. (2003–2007)
 
-    B.S. `Electrical Engineering <https://rose-hulman.edu/ece/>`_ (Summa cum-laude),
+    B.S. `Electrical Engineering <https://rose-hulman.edu/ece/>`_ (Magna cum-laude),
     Minor `Economics <https://rose-hulman.edu/econ/>`_
 
 
@@ -117,7 +117,7 @@ Skills
 
     My work experience includes software development projects that range from small scripts to GUI programs to distributed software architecture.
     Currently, I focus on data analysis, both algorithm development and data cleaning.
-    I develop mostly on \*NIX machines, but have used Windows in the past.
+    I develop interchangably and regulary on Ubuntu, Windows, and OSX.
 
 
 
@@ -229,7 +229,7 @@ Undergraduate Researcher - |RHIT|_, 2005–2007
 |BR|
 |BR|
 
-Updated: 2021-05-05
+Updated: 2021-12-29
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
 .. 888        888   8888b   888 888   d8P   d88P  Y88b
