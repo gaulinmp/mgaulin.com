@@ -35,7 +35,7 @@ Contact
 
     :Phone: `(512) 524-9736 <tel:+15125249736>`__
     :Email: `mac.gaulin@utah.edu <mailto:mac.gaulin@utah.edu>`__
-    :Web: `mgaulin.com <http://mgaulin.com>`__
+    :Web: `mgaulin.com <//mgaulin.com>`__
     :Github: |Github|_
 
 
@@ -58,29 +58,36 @@ Public narrative disclosures, information acquisition, information supply and de
 
 
 
-Education
+Employment
 --------------------------------------------------------------------------------
-.. 8888888888     888                            888    d8b
-.. 888            888                            888    Y8P
-.. 888            888                            888
-.. 8888888    .d88888 888  888  .d8888b  8888b.  888888 888  .d88b.  88888b.
-.. 888       d88" 888 888  888 d88P"        "88b 888    888 d88""88b 888 "88b
-.. 888       888  888 888  888 888      .d888888 888    888 888  888 888  888
-.. 888       Y88b 888 Y88b 888 Y88b.    888  888 Y88b.  888 Y88..88P 888  888
-.. 8888888888 "Y88888  "Y88888  "Y8888P "Y888888  "Y888 888  "Y88P"  888  888
+.. 8888888888                        888                                                   888
+.. 888                               888                                                   888
+.. 888                               888                                                   888
+.. 8888888    88888b.d88b.  88888b.  888  .d88b.  888  888 88888b.d88b.   .d88b.  88888b.  888888
+.. 888        888 "888 "88b 888 "88b 888 d88""88b 888  888 888 "888 "88b d8P  Y8b 888 "88b 888
+.. 888        888  888  888 888  888 888 888  888 888  888 888  888  888 88888888 888  888 888
+.. 888        888  888  888 888 d88P 888 Y88..88P Y88b 888 888  888  888 Y8b.     888  888 Y88b.
+.. 8888888888 888  888  888 88888P"  888  "Y88P"   "Y88888 888  888  888  "Y8888  888  888  "Y888
+..                          888                        888
+..                          888                   Y8b d88P
+..                          888                    "Y88P"
 
-|RICE|_, |JBS|_, Houston, TX USA
+|SEC|_, |DERA|_, Washington DC, USA
 
-    Ph.D., Accounting (2017)
+    IPA Visiting Financial Economist (2022 - 2023)
 
 |BR|
 
-|RHIT|_, Terre Haute, IN. (2003–2007)
+|UTAH|_, |UTAHB|_, Salt Lake City, UT, USA
 
-    B.S. `Electrical Engineering <https://rose-hulman.edu/ece/>`__ (Summa cum-laude),
-    Minor `Economics <https://rose-hulman.edu/econ/>`__
+    Assistant Professor (2017 - 2023)
 
 
+
+
+
+Publications
+--------------------------------------------------------------------------------
 .. 8888888b.
 .. 888   Y88b
 .. 888    888
@@ -93,44 +100,52 @@ Education
 ..                    888
 ..                    888
 
+* `Debt Contracting on Management <https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12893>`__
 
+    * with Brian Akins and David De Angelis. *Journal of Finance, 2020* (`SSRN <https://papers.ssrn.com/abstract=2757508>`__)
 
-Research Papers
---------------------------------------------------------------------------------
-* `Debt Contracting on Management <https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12893>`__ with Brian Akins and David De Angelis. *Journal of Finance, 2020* (`SSRN <https://papers.ssrn.com/abstract=2757508>`__)
     .. * Presented at the Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016), Annual Meeting of the Financial Management Association (2016), Annual Meeting of the Northern Finance Association (2016), SFS Cavalcade (2017).
 
-* `SARS-CoV-2 seroprevalence and detection fraction in Utah urban populations from a probability-based sample <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8544980/>`__, with Matthew Samore et al., 2021, Emerging Infectious Diseases
+* `SARS-CoV-2 seroprevalence and detection fraction in Utah urban populations from a probability-based sample <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8544980/>`__
+
+    * with Matthew Samore et al., 2021, Emerging Infectious Diseases
+
+
+* `What Is the Active Prevalence of COVID-19? <https://papers.ssrn.com/abstract=3734463>`__
+
+    * with Mu-Jeung Yang, Nathan Seegert, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, and Steven Alder, 2023, conditionally accepted at Review of Economics and Statistics
 
 
 
 Working Papers
 --------------------------------------------------------------------------------
-* `Semantic vs Literal Disclosure Similarity <https://papers.ssrn.com/abstract=3971286>`__, with Xiaoxia Peng, 2020
+* `Peering into Compensation Networks: A Holistic Approach <https://papers.ssrn.com/abstract=3971286>`__, with Xiaoxia Peng, 2023
 
-    * Presented at Rice University
+    * Presented at Rice University, University of Miami
 
-* Disclosure of Protected Forward Looking Statements, with Daniela De la Parra and K. Ramesh, 2020
+* Disclosure of Protected Forward Looking Statements, with Daniela De la Parra and K. Ramesh, 2022
 
     * Presented at the 2020 Lone Star Conference.
 
-* `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__ with Brian Akins, Jonathan Bitting, and David De Angelis, 2020
+* `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__ with Brian Akins, Jonathan Bitting, and David De Angelis, 2023
 
-    * Presented at China International Conference in Finance (2017), Lone Star Finance Conference (2017), Annual Meeting of the Financial Management Association (2017), Rice University (2017).
+    * Presented at China International Conference in Finance, Lone Star Finance Conference, Annual Meeting of the Financial Management Association, Rice University.
 
-* `Risk Fact or Fiction: The information content of risk factor disclosures </research/risk-fact-or-fiction-the-information-content-of-risk-factor-disclosures.html>`__, 2019
-
-    * Presented at UC Boulder, University of British Columbia, University of Chicago, University of Utah, University of Rochester, Chapman University, UCLA, Southern Methodist University, Division of Economic and Risk Analysis (SEC).
 
 * `Information Revelation of Decentralized Crisis Management: Evidence from Natural Experiments on Mask Mandates <https://papers.ssrn.com/abstract=3736407>`__, with Nathan Seegert, Mu-Jeung Yang, Francisco Navarro-Sanchez, 2020
 
-* Doing Good rather than Doing Well:What Stimulates Personal Data Sharing and Why?, with Nathan Seegert, Mu-Jeung Yang, Francisco Navarro-Sanchez, 2020
 
-* `What Is the Active Prevalence of COVID-19? <https://papers.ssrn.com/abstract=3734463>`__, with Mu-Jeung Yang, Nathan Seegert, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, and Steven Alder, 2020
+* Doing Good rather than Doing Well:What Stimulates Personal Data Sharing and Why?, with Nathan Seegert and Mu-Jeung Yang, 2022
+
+    * Presented at NBER Entrepreneurship Working Group
+
 
 * `What Drives the Effectiveness of Social Distancing in Combating COVID-19 across U.S. States? <https://papers.ssrn.com/abstract=3734452>`__, with Nathan Seegert, Mu-Jeung Yang, Adam Looney, 2020
 
 
+* `Risk Fact or Fiction: The information content of risk factor disclosures </research/risk-fact-or-fiction-the-information-content-of-risk-factor-disclosures.html>`__, 2019
+
+    * Presented at UC Boulder, University of British Columbia, University of Chicago, University of Utah, University of Rochester, Chapman University, UCLA, Southern Methodist University, Division of Economic and Risk Analysis (SEC).
 
 
 
@@ -196,10 +211,32 @@ Service
 
 **University of Utah**
 
-    Curriculum Committee (2020)
-
     HERO Project Logistics and Planning (2020-2021)
 
+    Curriculum Committee (2020)
+
+
+Education
+--------------------------------------------------------------------------------
+.. 8888888888     888                            888    d8b
+.. 888            888                            888    Y8P
+.. 888            888                            888
+.. 8888888    .d88888 888  888  .d8888b  8888b.  888888 888  .d88b.  88888b.
+.. 888       d88" 888 888  888 d88P"        "88b 888    888 d88""88b 888 "88b
+.. 888       888  888 888  888 888      .d888888 888    888 888  888 888  888
+.. 888       Y88b 888 Y88b 888 Y88b.    888  888 Y88b.  888 Y88..88P 888  888
+.. 8888888888 "Y88888  "Y88888  "Y8888P "Y888888  "Y888 888  "Y88P"  888  888
+
+|RICE|_, |JBS|_, Houston, TX USA
+
+    Ph.D., Accounting (2017)
+
+|BR|
+
+|RHIT|_, Terre Haute, IN. (2003–2007)
+
+    B.S. `Electrical Engineering <https://rose-hulman.edu/ece/>`__ (Summa cum-laude),
+    Minor `Economics <https://rose-hulman.edu/econ/>`__
 
 
 Presentations and Conferences
@@ -213,25 +250,27 @@ Presentations and Conferences
 .. Y88b  d88P Y88..88P 888  888 888         X88
 ..  "Y8888P"   "Y88P"  888  888 888     88888P'
 
+:2022: University of Miami
+
 :2021: Rice University, Financial Accounting and Reporting Section Midyear Meeting (Discussant of *Voluntary Performance Disclosures in the CD&A* by Heidi A. Packard, Andrea Pawliczek, and A. Nicole Skinner; `link <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776925>`__)
 
-:2020:  Utah Winter Accounting Conference (Discussant of *Are Social Media Analysts Disrupting the Information Content of Sell-Side Analysts' Reports?* by Michael Drake, James Moon, Brady Twedt, and James Warren; `link <http://www.utah-wac.org/2020/Papers/moon_UWAC.pdf>`__)
+:2020:  Utah Winter Accounting Conference (Discussant of *Are Social Media Analysts Disrupting the Information Content of Sell-Side Analysts' Reports?* by Michael Drake, James Moon, Brady Twedt, and James Warren; `link <//www.utah-wac.org/2020/Papers/moon_UWAC.pdf>`__)
 
-:2019: University of Colorado (Presentation), Midwest Finance Association Annual Meeting (Discussant of *Too Much of a Good Thing? Risk Disclosure and Corporate Innovation* by Shiu-Yik Au and Hongping Tan; `SSRN <http://ssrn.com/abstract=3043952>`__), CARE Conference on Financial Regulation Effectiveness and the Role of Academic Research
+:2019: University of Colorado (Presentation), Midwest Finance Association Annual Meeting (Discussant of *Too Much of a Good Thing? Risk Disclosure and Corporate Innovation* by Shiu-Yik Au and Hongping Tan; `SSRN <//ssrn.com/abstract=3043952>`__), CARE Conference on Financial Regulation Effectiveness and the Role of Academic Research
 
 :2018: Rotman CPA Ontario Centre for Accounting Innovation Research Conference (Presentation), AAA New Faculty Consortium, Financial Accounting and Reporting Section Midyear Meeting, Summer Finance and Accounting Conference, Hebrew University
 
 :2017: University of British Columbia (Presentation), University of Chicago (Presentation), University of Utah (Presentation), University of Rochester (Presentation), Chapman University (Presentation), UCLA (Presentation), Southern Methodist University (Presentation), SEC Division of Economic and Risk Analysis (Presentation)
 
-:2015:  Financial Accounting and Reporting Section Midyear Meeting. (Discussant of *The Effect of Institutional Ownership on Firm Transparency and Information Production* by Audra Boone and Joshua White; `SSRN <http://ssrn.com/abstract=2528891>`__), Lone Star Accounting Conference
+:2015:  Financial Accounting and Reporting Section Midyear Meeting. (Discussant of *The Effect of Institutional Ownership on Firm Transparency and Information Production* by Audra Boone and Joshua White; `SSRN <//ssrn.com/abstract=2528891>`__), Lone Star Accounting Conference
 
-:2014:  Olin Business School conference. (Co-discussant of *Textual Analysis and International Financial Reporting: Large Sample Evidence* by Mark Lang and Lorien Stice-Lawrence; `SSRN <http://ssrn.com/abstract=2407572>`__), AAA/Deloitte/J. Michael Cook Doctoral Consortium, Financial Accounting and Reporting Section Midyear Meeting, International Accounting section of the AAA, Lone Star Accounting Conference
+:2014:  Olin Business School conference. (Co-discussant of *Textual Analysis and International Financial Reporting: Large Sample Evidence* by Mark Lang and Lorien Stice-Lawrence; `SSRN <//ssrn.com/abstract=2407572>`__), AAA/Deloitte/J. Michael Cook Doctoral Consortium, Financial Accounting and Reporting Section Midyear Meeting, International Accounting section of the AAA, Lone Star Accounting Conference
 
 
 |BR|
 |BR|
 
-Updated: 2021-12-03
+Updated: 2023-02-14
 
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
@@ -245,19 +284,27 @@ Updated: 2021-12-03
 
 .. |UTAH| replace:: University of Utah
 
-.. _UTAH: http://www.utah.edu
+.. _UTAH: //www.utah.edu
 
 .. |UTAHB| replace:: David Eccles School of Business
 
-.. _UTAHB: http://eccles.utah.edu/
+.. _UTAHB: //eccles.utah.edu
+
+.. |SEC| replace:: Securities and Exchange Commission (SEC)
+
+.. _SEC: //sec.gov
+
+.. |DERA| replace:: Division of Economic and Risk Analysis (DERA)
+
+.. _DERA: //https://www.sec.gov/dera
 
 .. |JBS| replace:: Jesse H. Jones Graduate School of Business
 
-.. _JBS: http://business.rice.edu
+.. _JBS: //business.rice.edu
 
 .. |RICE| replace:: Rice University
 
-.. _RICE: http://www.rice.edu
+.. _RICE: //www.rice.edu
 
 .. |LinkedIn| replace:: LinkedIn
 
@@ -269,7 +316,7 @@ Updated: 2021-12-03
 
 .. |RHIT| replace:: Rose-Hulman Institute of Technology
 
-.. _RHIT: http://rose-hulman.edu/
+.. _RHIT: //rose-hulman.edu
 
 
 

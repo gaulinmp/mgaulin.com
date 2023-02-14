@@ -1,8 +1,8 @@
-:title: Semantic vs Literal Disclosure Similarity
+:title: Peering into Compensation Networks: A Holistic Approach
 :authors: Maclean Gaulin, and Xiaoxia Peng
 :paperstatus: Working Paper
 :tags: disclosure, compensation, cd&a
-:date: 2021-09-15
+:date: 2023-02-01
 :ssrn: https://papers.ssrn.com/abstract=3971286
 :hasabstract: True
 
