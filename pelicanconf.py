@@ -25,7 +25,7 @@ ASSET_CONFIG = ()
 JINJA_ENVIRONMENT= {
         'trim_blocks': True,
         'lstrip_blocks': True,
-        'extensions': ['jinja2.ext.with_', ],
+        'extensions': [],#['jinja2.ext.with_', ],
     }
 
 # Blogroll

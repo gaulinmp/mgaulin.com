@@ -113,7 +113,12 @@ Publications
 
 * `What Is the Active Prevalence of COVID-19? <https://papers.ssrn.com/abstract=3734463>`__
 
-    * with Mu-Jeung Yang, Nathan Seegert, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, and Steven Alder, 2023, conditionally accepted at Review of Economics and Statistics
+    * with Mu-Jeung Yang, Nathan Seegert, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, and Steven Alder, 2023, Review of Economics and Statistics
+
+
+* `The COVID-19 state sales tax windfall <https://link.springer.com/article/10.1007/s10797-023-09778-w>`__
+
+    * with Phil Dean, Mu-Jeung Yang, Nathan Seegert, 2023, International Tax and Public Finance
 
 
 
@@ -121,7 +126,7 @@ Working Papers
 --------------------------------------------------------------------------------
 * `Peering into Compensation Networks: A Holistic Approach <https://papers.ssrn.com/abstract=3971286>`__, with Xiaoxia Peng, 2023
 
-    * Presented at Rice University, University of Miami
+    * Presented at Rice University, University of Miami, University of Notre Dame
 
 * Disclosure of Protected Forward Looking Statements, with Daniela De la Parra and K. Ramesh, 2022
 
@@ -250,6 +255,8 @@ Presentations and Conferences
 .. Y88b  d88P Y88..88P 888  888 888         X88
 ..  "Y8888P"   "Y88P"  888  888 888     88888P'
 
+:2023: University of Notre Dame
+
 :2022: University of Miami
 
 :2021: Rice University, Financial Accounting and Reporting Section Midyear Meeting (Discussant of *Voluntary Performance Disclosures in the CD&A* by Heidi A. Packard, Andrea Pawliczek, and A. Nicole Skinner; `link <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776925>`__)
@@ -270,7 +277,7 @@ Presentations and Conferences
 |BR|
 |BR|
 
-Updated: 2023-02-14
+Updated: 2023-08-01
 
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
