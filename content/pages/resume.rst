@@ -155,10 +155,23 @@ Work Experience
 ..                                                                  888
 ..                                                                  888
 
-Assistant Professor of Accounting - |UTAHB|_, |UTAH|_ - 2017 - Present
+Assistant Professor of Accounting - |UTAHB|_, |UTAH|_ - 2017–Present
 
     Teaching: Managerial Accounting
 
+|BR|
+
+IPA Visiting Financial Economist - |DERA|_ at the |SEC|_ - 2022–2023
+
+
+
+    *Overview*: Worked on data, research, and policy writing for SPAC rule.
+    Helped with data scraping, aggregating, and analysis for various other rules.
+
+    *Skills used*: Econometrics, unstructured information extraction,
+    natural language processing, `Python`, `STATA`.
+
+|BR|
 
 Graduate Researcher - |RICE|_ - 2011–2017
 
@@ -229,7 +242,7 @@ Undergraduate Researcher - |RHIT|_, 2005–2007
 |BR|
 |BR|
 
-Updated: 2021-12-29
+Updated: 2024-07-29
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
 .. 888        888   8888b   888 888   d8P   d88P  Y88b
@@ -247,6 +260,14 @@ Updated: 2021-12-29
 .. |UTAHB| replace:: David Eccles School of Business
 
 .. _UTAHB: http://eccles.utah.edu/
+
+.. |SEC| replace:: Securities and Exchange Commission (SEC)
+
+.. _SEC: //sec.gov
+
+.. |DERA| replace:: Division of Economic and Risk Analysis (DERA)
+
+.. _DERA: //https://www.sec.gov/dera
 
 .. |JBS| replace:: Jesse H. Jones Graduate School of Business
 

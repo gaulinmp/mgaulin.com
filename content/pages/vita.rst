@@ -72,15 +72,17 @@ Employment
 ..                          888                   Y8b d88P
 ..                          888                    "Y88P"
 
+|UTAH|_, |UTAHB|_, Salt Lake City, UT, USA
+
+    Assistant Professor (2017 - Present)
+
+|BR|
+
 |SEC|_, |DERA|_, Washington DC, USA
 
     IPA Visiting Financial Economist (2022 - 2023)
 
-|BR|
 
-|UTAH|_, |UTAHB|_, Salt Lake City, UT, USA
-
-    Assistant Professor (2017 - 2023)
 
 
 
@@ -100,26 +102,32 @@ Publications
 ..                    888
 ..                    888
 
-* `Debt Contracting on Management <https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12893>`__
+* `What Drives the Effectiveness of Social Distancing in Combating COVID-19 across U.S. States? <https://papers.ssrn.com/abstract=3734452>`__
 
-    * with Brian Akins and David De Angelis. *Journal of Finance, 2020* (`SSRN <https://papers.ssrn.com/abstract=2757508>`__)
+    * with Nathan Seegert, Mu-Jeung Yang, 2024, Forthcoming at PLOS ONE
 
-    .. * Presented at the Lone Star Accounting Conference (2016), Academic Conference on Corporate Governance hosted by Drexel University (2016), Colorado Summer Accounting Research Conference (2016), Annual Meeting of the Financial Management Association (2016), Annual Meeting of the Northern Finance Association (2016), SFS Cavalcade (2017).
+* `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__
+
+    * with Brian Akins, Jonathan Bitting, and David De Angelis, 2024, conditionally accepted at Contemporary Accounting Research
+
+* `The COVID-19 state sales tax windfall <https://link.springer.com/article/10.1007/s10797-023-09778-w>`__
+
+    * with Phil Dean, Mu-Jeung Yang, Nathan Seegert, 2023, International Tax and Public Finance
+
+
+* `What Is the Active Prevalence of COVID-19? <https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01302/115269/What-Is-the-Active-Prevalence-of-COVID-19>`__
+
+    * with Mu-Jeung Yang, Nathan Seegert, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, and Steven Alder, 2023, Review of Economics and Statistics
+
 
 * `SARS-CoV-2 seroprevalence and detection fraction in Utah urban populations from a probability-based sample <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8544980/>`__
 
     * with Matthew Samore et al., 2021, Emerging Infectious Diseases
 
 
-* `What Is the Active Prevalence of COVID-19? <https://papers.ssrn.com/abstract=3734463>`__
+* `Debt Contracting on Management <https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12893>`__
 
-    * with Mu-Jeung Yang, Nathan Seegert, Adam Looney, Brian Orleans, Andrew T. Pavia, Kristina Stratford, Matthew Samore, and Steven Alder, 2023, Review of Economics and Statistics
-
-
-* `The COVID-19 state sales tax windfall <https://link.springer.com/article/10.1007/s10797-023-09778-w>`__
-
-    * with Phil Dean, Mu-Jeung Yang, Nathan Seegert, 2023, International Tax and Public Finance
-
+    * with Brian Akins and David De Angelis. *Journal of Finance, 2020* (`SSRN <https://papers.ssrn.com/abstract=2757508>`__)
 
 
 Working Papers
@@ -132,10 +140,6 @@ Working Papers
 
     * Presented at the 2020 Lone Star Conference.
 
-* `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__ with Brian Akins, Jonathan Bitting, and David De Angelis, 2023
-
-    * Presented at China International Conference in Finance, Lone Star Finance Conference, Annual Meeting of the Financial Management Association, Rice University.
-
 
 * `Information Revelation of Decentralized Crisis Management: Evidence from Natural Experiments on Mask Mandates <https://papers.ssrn.com/abstract=3736407>`__, with Nathan Seegert, Mu-Jeung Yang, Francisco Navarro-Sanchez, 2020
 
@@ -143,9 +147,6 @@ Working Papers
 * Doing Good rather than Doing Well:What Stimulates Personal Data Sharing and Why?, with Nathan Seegert and Mu-Jeung Yang, 2022
 
     * Presented at NBER Entrepreneurship Working Group
-
-
-* `What Drives the Effectiveness of Social Distancing in Combating COVID-19 across U.S. States? <https://papers.ssrn.com/abstract=3734452>`__, with Nathan Seegert, Mu-Jeung Yang, Adam Looney, 2020
 
 
 * `Risk Fact or Fiction: The information content of risk factor disclosures </research/risk-fact-or-fiction-the-information-content-of-risk-factor-disclosures.html>`__, 2019
@@ -165,6 +166,9 @@ Grants and Awards
 .. 888    888 888    .d888888 888  888 888    "Y8888b.
 .. Y88b  d88P 888    888  888 888  888 Y88b.       X88
 ..  "Y8888P88 888    "Y888888 888  888  "Y888  88888P'
+
+:2023: Faculty Research Impact Award
+
 
 :2021: $455,000 COVID-19 Economic Impact (Principal Investigator)
 
@@ -216,6 +220,10 @@ Service
 
 **University of Utah**
 
+    Masters Curriculum Committee (2024-Present)
+
+    Utah Public Finance Conference Organizer (2024)
+
     HERO Project Logistics and Planning (2020-2021)
 
     Curriculum Committee (2020)
@@ -255,6 +263,8 @@ Presentations and Conferences
 .. Y88b  d88P Y88..88P 888  888 888         X88
 ..  "Y8888P"   "Y88P"  888  888 888     88888P'
 
+:2024: Rice University Accounting Alumni Conference, Utah Public Finance Conference (organizer)
+
 :2023: University of Notre Dame
 
 :2022: University of Miami
@@ -277,7 +287,7 @@ Presentations and Conferences
 |BR|
 |BR|
 
-Updated: 2023-08-01
+Updated: 2024-07-31
 
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.

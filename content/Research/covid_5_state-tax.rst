@@ -1,6 +1,6 @@
 :title: The COVID-19 state sales tax windfall
 :authors: Phil Dean, Maclean Gaulin, Nathan Seegert, Mu-Jeung Yang
-:paperstatus: Published
+:paperstatus: Published at International Tax and Public Finance
 :tags: covid-19, public finance, tax revenue, federalism
 :date: 2023-05-18
 :ssrn:
@@ -17,3 +17,5 @@ The second factor is the boom in e-commerce during the pandemic, which boosted s
 This was catalyzed by recent legal changes that made the collection of sales taxes in e-commerce easier.
 Interestingly, this e-commerce boost also shifted the point of sale and related sales tax revenues away from urban areas toward suburban areas.
 Our case study of the pandemic's effect on sales taxes in the USA generally, and Utah's experience specifically, provides lessons for consumption taxes, such as the VAT more broadly, and lessons on the role of consumption taxes for tax revenue volatility.
+
+`Read the full article here <https://link.springer.com/article/10.1007/s10797-023-09778-w>`_
