@@ -132,16 +132,16 @@ Publications
 
 Working Papers
 --------------------------------------------------------------------------------
-* `Peering into Compensation Networks: A Holistic Approach <https://papers.ssrn.com/abstract=3971286>`__, with Xiaoxia Peng, 2023
+* `Peering into Compensation Networks: A Holistic Approach <https://papers.ssrn.com/abstract=3971286>`__, with Xiaoxia Peng, 2024
 
-    * Presented at Rice University, University of Miami, University of Notre Dame
+    * Presented at Rice University, University of Miami, University of Notre Dame, University of Toronto
 
-* Disclosure of Protected Forward Looking Statements, with Daniela De la Parra and K. Ramesh, 2022
+* Disclosure of Protected Forward Looking Statements, with Daniela De la Parra and K. Ramesh, 2024
 
     * Presented at the 2020 Lone Star Conference.
 
 
-* `Information Revelation of Decentralized Crisis Management: Evidence from Natural Experiments on Mask Mandates <https://papers.ssrn.com/abstract=3736407>`__, with Nathan Seegert, Mu-Jeung Yang, Francisco Navarro-Sanchez, 2020
+* `Information Revelation of Decentralized Crisis Management: Evidence from Natural Experiments on Mask Mandates <https://papers.ssrn.com/abstract=3736407>`__, with Nathan Seegert, Mu-Jeung Yang, Francisco Navarro-Sanchez, 2023
 
 
 * Doing Good rather than Doing Well:What Stimulates Personal Data Sharing and Why?, with Nathan Seegert and Mu-Jeung Yang, 2022
@@ -154,6 +154,13 @@ Working Papers
     * Presented at UC Boulder, University of British Columbia, University of Chicago, University of Utah, University of Rochester, Chapman University, UCLA, Southern Methodist University, Division of Economic and Risk Analysis (SEC).
 
 
+Works in Progress
+--------------------------------------------------------------------------------
+* *OTC Market Disclosures and Assurance Effects on Information Environment*, with Thomas Bourveau, Emmanuel De George, Atif Elahie, David Wang. Stage: Data collection and initial analyses
+
+|BR|
+
+* *Bank Call Report Disclosures and Geographic Risk Shifting*, with Elizabeth Berger and Nathan Seegert. Stage: Data collection and initial analyses
 
 
 Grants and Awards
@@ -195,7 +202,7 @@ Teaching
 
 **University of Utah**
 
-    Professional MBA Managerial Accounting (ACCTG 6001)
+    Professional MBA Managerial Accounting (ACCTG 6001, 2024 reviews 93%)
 
     Online MBA Managerial Accounting (ACCTG 6001)
 
@@ -224,10 +231,11 @@ Service
 
     Utah Public Finance Conference Organizer (2024)
 
-    HERO Project Logistics and Planning (2020-2021)
+    HERO Project Logistics and Planning ($10MM grant funded) (2020-2021)
 
     Curriculum Committee (2020)
 
+Ad hoc reviewer at The Accounting Review, Journal of Business Finance & Accounting, Journal of Corporate Finance, European Accounting Review, and PLOS ONE
 
 Education
 --------------------------------------------------------------------------------
@@ -263,6 +271,8 @@ Presentations and Conferences
 .. Y88b  d88P Y88..88P 888  888 888         X88
 ..  "Y8888P"   "Y88P"  888  888 888     88888P'
 
+:2025: University of Oregon
+
 :2024: Rice University Accounting Alumni Conference, Utah Public Finance Conference (organizer)
 
 :2023: University of Notre Dame
@@ -287,7 +297,7 @@ Presentations and Conferences
 |BR|
 |BR|
 
-Updated: 2024-07-31
+Updated: 2024-11-06
 
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
