@@ -108,7 +108,7 @@ Publications
 
 * `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__
 
-    * with Brian Akins, Jonathan Bitting, and David De Angelis, 2024, conditionally accepted at Contemporary Accounting Research
+    * with Brian Akins, Jonathan Bitting, and David De Angelis, 2024, forthcoming at Contemporary Accounting Research
 
 * `The COVID-19 state sales tax windfall <https://link.springer.com/article/10.1007/s10797-023-09778-w>`__
 
@@ -297,7 +297,7 @@ Presentations and Conferences
 |BR|
 |BR|
 
-Updated: 2024-11-06
+Updated: 2025-01-12
 
 
 .. 888      8888888 888b    888 888    d8P   .d8888b.
