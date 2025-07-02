@@ -1,3 +1,4 @@
+# pelican ./content -o ./output -s ./publishconf.py -lrp 8000
 PY?=python3
 PELICAN?=pelican
 PELICANOPTS=

@@ -71,9 +71,9 @@ Publications
 ..                    888
 ..                    888
 
-* [1] `The Salience of Creditors' Interests and CEO Compensation <https://papers.ssrn.com/abstract=2967326>`__
+* [1] `CEO short-term incentives and the agency cost of debt <http://doi.org/10.1111/1911-3846.13021>`__
 
-    * with Brian Akins, Jonathan Bitting, and David De Angelis, 2024, forthcoming at Contemporary Accounting Research
+    * with Brian Akins, Jonathan Bitting, and David De Angelis, 2024, forthcoming at Contemporary Accounting Research (`SSRN <https://papers.ssrn.com/abstract=2967326>`__)
 
 * [2] `What Drives the Effectiveness of Social Distancing in Combating COVID-19 across U.S. States? <https://papers.ssrn.com/abstract=3734452>`__
 
